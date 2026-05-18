@@ -1,40 +1,40 @@
 ---
-title: "PhD Research Project"
-excerpt: "A research project involving [topic], [methods], and scientific analysis."
+title: "Project Title"
+excerpt: "One-sentence summary of the project."
 collection: portfolio
-permalink: /projects/phd-research-project/
+permalink: /projects/project-url-name/
 ---
 
-# PhD Research Project
+# Project Title
 
-PhD research project
-Master’s thesis project
-Data analysis / scientific computing project
-Publication-related project
-Teaching or mentoring project
+## Summary
+
+Write 2–3 sentences explaining the project in simple language.
 
 ## Context
 
-This project focused on [briefly describe the scientific problem].
+What was the scientific, technical, or organizational problem?
 
 ## My role
 
-I contributed to [your role: experiments, simulations, analysis, writing, collaboration, etc.].
+What did you personally do?
 
 ## Methods and tools
 
-- [Tool or method 1]
-- [Tool or method 2]
-- [Tool or method 3]
+- Method/tool 1
+- Method/tool 2
+- Method/tool 3
 
 ## Outcome
 
-The project contributed to [publication, thesis chapter, conference presentation, method, dataset, or research result].
+What was produced, improved, measured, published, organized, or learned?
 
 ## Skills demonstrated
 
-- Scientific research
-- Data analysis
-- Technical problem-solving
-- Academic writing
-- Collaboration
+- Skill 1
+- Skill 2
+- Skill 3
+
+## Related publications or outputs
+
+- Publication, talk, poster, report, code, dataset, or internal output
