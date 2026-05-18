@@ -22,7 +22,8 @@ You can download my full CV here:
 ## Research Experience
 
 - Doctoral Researcher, Johannes Gutenberg-Universität Mainz, 2021-2026
-- Junior Research Fellow, Indian Institute Of Technology Delhi, 2017-2019
+- Junior Research Fellow, Indian Institute of Technology Delhi, 2020-2021
+
 
 ## Skills
 
@@ -30,8 +31,10 @@ You can download my full CV here:
 - Data analysis
 - Scientific writing
 - Academic publishing
-- [Programming/tools]
-- [Laboratory/simulation/theory methods]
+- Python, LabVIEW, OriginPro, LaTeX, Inkscape, SolidWorks, K-layout
+- DC/RF/pulsed magnetron sputtering, PLD, RHEED, XRD/XRR, SQUID/VSM, MOKE, FMR, AFM
+- Optical and e-beam lithography, ion etching, annealing, wire bonding
+- Low-temperature and high-field electrical/magnetotransport measurements
 
 ## Publications
 
