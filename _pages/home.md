@@ -6,33 +6,36 @@ author_profile: true
 
 # Akashdeep
 
-I am a PhD physicist working in experimental condensed matter physics and spintronics, with a focus on magnetic thin films, altermagnetism, spin currents, magnetotransport, and advanced magnetic characterization.
+**Experimental physicist working on spintronics, magnetic thin films, altermagnetism, and advanced magnetic characterization.**
 
-My research investigates how magnetic order, crystal symmetry, interfaces, and surfaces influence spin transport in emerging magnetic materials. I have worked on RuO₂-based altermagnetic systems, ferrimagnetic garnet heterostructures, magnon transport, and experimental probes of magnetic order using transport and spectroscopy-based methods.
+I am a PhD physicist at Johannes Gutenberg University Mainz with experience across experimental condensed matter physics, spintronics, magnetic thin films, instrumentation, magnetotransport, and scientific data analysis.
 
-This website complements my CV by presenting my research areas, selected projects, publications, academic experience, and professional interests.
+My work often sits between experimental design, measurement workflows, data interpretation, and collaboration. I enjoy turning complex physical questions into measurable experiments, building practical workflows, and communicating results in a way that helps a team move forward.
+
+This website complements my CV by presenting my research areas, selected projects, publications, mentoring experience, technical skills, and professional interests.
 
 ## Research focus
 
-- Altermagnetism and compensated magnetic systems
-- Spin currents, magnetotransport, and spin Hall effects
-- Magnetic thin films and oxide heterostructures
-- Interface- and surface-driven magnetic phenomena
-- Magnonics and ferrimagnetic spin dynamics
-- Advanced probes of magnetic order, including low-energy muon spectroscopy, X-ray dichroism, magnetotransport, and Kerr microscopy
+- Spintronics and magnetic thin-film heterostructures
+- Altermagnetism, RuO₂-based systems, and compensated magnetic materials
+- Magnetotransport, spin currents, and Hall-related effects
+- Ferrimagnetic garnets, spin dynamics, and magnonics
+- Advanced characterization using transport, spectroscopy, microscopy, and beamline-based methods
+- Experimental instrumentation, vacuum systems, cryogenics, and thin-film growth
 
-## Featured work
+## Featured projects
 
-- RuO₂/permalloy heterostructures and interface-generated spin currents
-- Surface-localized magnetic order in RuO₂ thin films
-- Altermagnetic signatures in RuO₂, hematite, and LuFeO₃
-- Spin dynamics and spin-current generation in ferrimagnetic garnet systems
+- Interface-generated spin-current magnetoresistance in RuO₂/permalloy heterostructures
+- Surface-localized magnetic order in RuO₂ thin films studied with low-energy muon probes
+- Temperature-dependent spin dynamics in YIG/GdIG/Pt trilayers
+- Assembly and commissioning of thin-film growth and characterization infrastructure
+- Teaching, mentoring, and coordination within research teams
 
 ## Explore
 
 - [Research](/research/)
 - [Projects](/projects/)
-- [Publications](/publications/)
 - [Experience](/experience/)
+- [Publications](/publications/)
 - [Contact](/contact/)
 - [Download my CV](/files/Akashdeep_CV.pdf)
