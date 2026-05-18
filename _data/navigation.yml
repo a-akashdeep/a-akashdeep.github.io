@@ -20,11 +20,11 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Publications"
-    url: /publications/
-
   - title: "Experience"
     url: /experience/
+
+  - title: "Publications"
+    url: /publications/
 
   - title: "Contact"
     url: /contact/
