@@ -4,11 +4,20 @@ permalink: /about/
 author_profile: true
 ---
 
+# About
 
-I am a PhD physicist with a research background in experimental condensed matter physics, spintronics, magnetic thin films, and emerging magnetic materials.
+I am a PhD physicist with a background in experimental condensed matter physics, spintronics, magnetic thin films, and emerging magnetic materials.
 
-My doctoral and collaborative research has focused on understanding how spin, magnetic order, interfaces, surfaces, and crystal symmetry affect transport and dynamics in magnetic heterostructures. Much of my work is connected to altermagnetism, RuO₂-based thin films, spin-current generation, magnetotransport, ferrimagnetic garnets, and advanced experimental probes of magnetic order.
+My research has focused on how magnetic order, crystal symmetry, interfaces, and surfaces influence spin transport and dynamics in magnetic heterostructures. Much of my work connects altermagnetism, RuO₂-based thin films, magnetotransport, ferrimagnetic garnets, spin-current generation, and advanced probes of magnetic order.
 
-I enjoy working on problems where careful experiments, physical interpretation, data analysis, and collaboration come together. My publication record reflects experience across transport measurements, magnetic characterization, thin-film heterostructures, spectroscopy-based probes, and interdisciplinary collaborations with experimental and theoretical research groups.
+I enjoy work that combines careful experiments, physical interpretation, data analysis, and collaboration. During my PhD, I contributed to multi-technique spintronics research, publication work, lab workflows, beamline experiments, student mentoring, and research coordination.
 
-Beyond research, I am interested in communicating scientific ideas clearly and building a professional profile that connects academic research with broader technical and industrial opportunities. Outside my professional work, I enjoy running and cycling, which reflect qualities I also value in research: consistency, patience, resilience, and long-term improvement.
+## How I work
+
+My work often sits between experimental design, data interpretation, and practical problem-solving. I like taking unclear technical problems and turning them into measurable questions: What do we need to test? Which measurement can separate competing explanations? What does the data actually show? How can the result be communicated clearly?
+
+I value patience, reliability, curiosity, respect, and structured thinking. These qualities matter in research because experiments rarely move in a straight line. Good work often requires iteration, careful troubleshooting, honest communication, and attention to both details and people.
+
+## Beyond the lab
+
+Outside research, I enjoy outdoor and physical activities such as running, cycling, volleyball, swimming, and calisthenics. These interests give me balance and reflect qualities I also value professionally: consistency, resilience, long-term improvement, and willingness to keep learning.
