@@ -4,14 +4,13 @@ permalink: /experience/
 author_profile: true
 ---
 
-# Experience
 
-## Doctoral Researcher in Physics
+## Research Associate
 
 **Johannes Gutenberg University Mainz**  
-2021 – expected completion April 2026
+2021 – 2026
 
-My PhD research focuses on experimental condensed matter physics and spintronics, with emphasis on magnetic thin films, altermagnetic materials, spin currents, magnetotransport, and advanced characterization of magnetic order.
+My doctoral research focuses on experimental condensed-matter physics and spintronics, with an emphasis on magnetic thin films, altermagnetic materials, spin currents, magnetotransport, and advanced characterization of magnetic order.
 
 Key areas of experience:
 
@@ -28,16 +27,17 @@ Key areas of experience:
 **Indian Institute of Technology Delhi**  
 2020 – 2021
 
-Worked as a Junior Research Fellow before starting my PhD, strengthening my foundation in experimental physics, research workflows, and condensed matter physics.
+Worked as a Junior Research Fellow before starting my PhD, where I developed a strong foundation in experimental physics, research workflows, and condensed matter physics. During this period, I gained broad exposure to materials science through coursework and laboratory work. My work involved thin-film deposition by sputtering, MOKE measurements, sputter chamber assembly, and studies of Heusler alloy anisotropy, along with deeper experience in nanostructures and materials characterization.
 
-## Teaching, mentoring, and supervision
 
-- Teaching assistant for Bachelor’s students in Condensed Matter Physics
-- Hosted visiting PhD students from DGIST Korea for three-month research stays
-- Supervised a RISE bachelor student project on RT-FMR with a modulating coil field
-- Supported master-level projects on permalloy thin-film characterization and rare-earth iron garnets
+## Mentoring, supervision, and teaching
+
+- Supervised Bachelor’s thesis projects, including a successful [RISE DAAD](https://www.daad.de/en/the-daad/postgraduate-study-and-research-in-germany/research-internships-in-science-and-engineering-rise-germany/) research proposal
+- Mentored Master’s thesis projects on permalloy thin-film characterization and rare-earth iron garnets
+- Hosted and coordinated visiting PhD students
 - Participated in the Mainz mentorship program
 - Completed an Intercultural Communication Seminar
+- Teaching assistant for Bachelor’s students in Condensed Matter Physics
 
 ## Research coordination and academic service
 
@@ -48,17 +48,17 @@ Worked as a Junior Research Fellow before starting my PhD, strengthening my foun
 ## Beamlines and facilities
 
 - [BESSY II](https://www.helmholtz-berlin.de/forschung/oe/qm/spin-topologie/hitchhikersguide/bessy_en.html): [XMCD-PEEM](https://en.wikipedia.org/wiki/Photoemission_electron_microscopy) measurements on RuO₂.
-- [Swiss Light Source (SLS) / Paul Scherrer Institute (PSI)](https://www.psi.ch/en/lmu): [Muon spin spectroscopy (μSR)](https://en.wikipedia.org/wiki/Muon_spin_rotation) on RuO₂.
+- [Swiss Light Source (SLS) / Paul Scherrer Institute (PSI)](https://www.psi.ch/en): [Muon spin spectroscopy (μSR)](https://en.wikipedia.org/wiki/Muon_spin_rotation) on RuO₂.
 
 ## Conferences and presentations
 
 - [16th Joint Conference on Magnetism and Magnetic Materials and Intermag (MMM–Intermag 2025)](https://emfl.eu/16th-joint-conference-on-magnetism-and-magnetic-materials-and-intermag-new-orleans-usa-january-13-17-2025/), New Orleans, USA — Talk
 - [25th International Colloquium on Magnetic Films and Surfaces (ICMFS 2024)](https://www.icmfs2024.it/home/welcome), Perugia, Italy — Talk
-- [Deutsche Physikalische Gesellschaft (DPG), SKM Spring Meeting 2023](https://www.dpg-verhandlungen.de/year/2023/conference/dresden/part/skm), Dresden, Germany — Poster
-- [Deutsche Physikalische Gesellschaft (DPG), SKM Spring Meeting 2022](https://regensburg22.dpg-tagungen.de), Regensburg, Germany — Poster
+- [Deutsche Physikalische Gesellschaft (DPG), SKM Spring Meeting 2023](https://skm23.dpg-tagungen.de/), Dresden, Germany — Poster
+- [Deutsche Physikalische Gesellschaft (DPG), SKM Spring Meeting 2022](https://regensburg22.dpg-tagungen.de/), Regensburg, Germany — Poster
 - [Joint School on Spin Physics 2021](https://www.trr227.de/dates/winterschool-2021.html), Apolda, Germany — Poster
-- [International Conference on Advanced Materials 2019](http://www.icamd.or.kr/2019/), JMI, India — Poster
-- [3rd Departmental Symposium on Advances in Physics 2019](https://www.cense.iisc.ac.in/sreekanth-maddaka/), IIT Delhi, India — Poster
+- [International Conference on Advanced Materials 2019](https://doi.org/10.1063/12.0001170), JMI, India — Poster
+- 3rd Departmental Symposium on Advances in Physics 2019, IIT Delhi, India — Poster
 
 
 ## Education
