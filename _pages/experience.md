@@ -4,23 +4,17 @@ permalink: /experience/
 author_profile: true
 ---
 
+My experience combines doctoral research, experimental physics, thin-film systems, instrumentation, data analysis, mentoring, and research coordination.
+
 
 ## Research Associate
 
 **Johannes Gutenberg University Mainz**  
 2021 – 2026
 
-My doctoral research focuses on experimental condensed-matter physics and spintronics, with an emphasis on magnetic thin films, altermagnetic materials, spin currents, magnetotransport, and advanced characterization of magnetic order.
+As a doctoral researcher, I worked on experimental condensed-matter physics and spintronics, with emphasis on magnetic thin films, altermagnetic materials, spin currents, magnetotransport, and advanced characterization of magnetic order.
 
-Key areas of experience:
-
-- Designed and interpreted experiments in magnetic thin-film heterostructures
-- Studied spin transport, magnetotransport, and Hall-related effects
-- Worked with altermagnetic and ferrimagnetic material systems
-- Analyzed temperature-, field-, and angle-dependent measurement data
-- Contributed to peer-reviewed publications and collaborative manuscripts
-- Participated in beamline and facility-based research
-- Communicated research through manuscripts, figures, talks, and posters
+My role involved designing and interpreting experiments, preparing and analyzing measurement data, contributing to collaborative publications, supporting students and visiting researchers, and helping coordinate research activities within the group.
 
 ## Junior Research Fellow
 
