@@ -1,10 +1,8 @@
 ---
-title: "Contact"
+title: ""
 permalink: /contact/
 author_profile: true
 ---
-
-# Contact
 
 I am happy to connect about research, professional opportunities, collaborations, spintronics, magnetic materials, data analysis, scientific communication, and related topics.
 
