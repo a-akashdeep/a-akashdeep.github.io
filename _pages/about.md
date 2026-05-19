@@ -4,7 +4,6 @@ permalink: /about/
 author_profile: true
 ---
 
-# About
 
 I am a PhD physicist with a background in experimental condensed matter physics, spintronics, magnetic thin films, and emerging magnetic materials.
 
@@ -14,10 +13,10 @@ I enjoy work that combines careful experiments, physical interpretation, data an
 
 ## How I work
 
-My work often sits between experimental design, data interpretation, and practical problem-solving. I like taking unclear technical problems and turning them into measurable questions: What do we need to test? Which measurement can separate competing explanations? What does the data actually show? How can the result be communicated clearly?
+My work often sits at the intersection of experimental design, data interpretation, and practical problem-solving. I like taking unclear technical problems and turning them into measurable questions: What do we need to test? Which measurement can separate competing explanations? What does the data actually show? How can the result be communicated clearly?
 
-I value patience, reliability, curiosity, respect, and structured thinking. These qualities matter in research because experiments rarely move in a straight line. Good work often requires iteration, careful troubleshooting, honest communication, and attention to both details and people.
+I value patience, reliability, curiosity, respect, and critical thinking. These qualities matter in my research, and in any research, because experiments rarely move in a straight line. Good work often requires iteration, careful troubleshooting, honest communication, and attention to both details and people.
 
 ## Beyond the lab
 
-Outside research, I enjoy outdoor and physical activities such as running, cycling, volleyball, swimming, and calisthenics. These interests give me balance and reflect qualities I also value professionally: consistency, resilience, long-term improvement, and willingness to keep learning.
+Outside of research, I enjoy outdoor and physical activities such as running, cycling, volleyball, swimming, and calisthenics. These interests give me balance and reflect qualities I also value professionally: consistency, resilience, long-term improvement, and willingness to keep learning.
