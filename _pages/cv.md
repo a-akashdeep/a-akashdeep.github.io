@@ -21,7 +21,7 @@ You can download my full CV here:
 
 ## Research Experience
 
-- Doctoral Researcher, Johannes Gutenberg-Universität Mainz, 2021-2026
+- Research Associate, Johannes Gutenberg-Universität Mainz, 2021-2026
 - Junior Research Fellow, Indian Institute of Technology Delhi, 2020-2021
 
 
@@ -32,7 +32,7 @@ You can download my full CV here:
 - Scientific writing
 - Academic publishing
 - Python, LabVIEW, OriginPro, LaTeX, Inkscape, SolidWorks, K-layout
-- DC/RF/pulsed magnetron sputtering, PLD, RHEED, XRD/XRR, SQUID/VSM, MOKE, FMR, AFM
+- [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), [LabVIEW](https://en.wikipedia.org/wiki/LabVIEW), [OriginPro](https://en.wikipedia.org/wiki/Origin_(data_analysis_software)), [LaTeX](https://en.wikipedia.org/wiki/LaTeX), [Inkscape](https://en.wikipedia.org/wiki/Inkscape), [SolidWorks](https://en.wikipedia.org/wiki/SolidWorks), [K-layout](https://en.wikipedia.org/wiki/IC_layout_editor)
 - Optical and e-beam lithography, ion etching, annealing, wire bonding
 - Low-temperature and high-field electrical/magnetotransport measurements
 
