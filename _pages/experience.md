@@ -1,5 +1,5 @@
 ---
-title: "Experience"
+title: ""
 permalink: /experience/
 author_profile: true
 ---
@@ -26,7 +26,7 @@ Worked as a Junior Research Fellow before starting my PhD, where I developed a s
 
 ## Mentoring, supervision, and teaching
 
-- Supervised Bachelor’s thesis projects, including a successful [RISE DAAD](https://www.daad.de/en/the-daad/postgraduate-study-and-research-in-germany/research-internships-in-science-and-engineering-rise-germany/) research proposal
+- Supervised Bachelor’s thesis projects, including a successful [RISE DAAD](https://www.daad.de/rise/en/) research proposal
 - Mentored Master’s thesis projects on permalloy thin-film characterization and rare-earth iron garnets
 - Hosted and coordinated visiting PhD students
 - Participated in the Mainz mentorship program
