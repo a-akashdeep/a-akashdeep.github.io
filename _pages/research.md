@@ -4,8 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research
-
 My research lies at the intersection of experimental condensed matter physics, spintronics, magnetic thin films, and emerging magnetic materials. I am especially interested in how magnetic order, interfaces, surfaces, crystal symmetry, and spin-orbit coupling influence transport and dynamics in heterostructures.
 
 ## Altermagnetism and RuO₂-based systems
