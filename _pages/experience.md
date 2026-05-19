@@ -34,46 +34,47 @@ Worked as a Junior Research Fellow before starting my PhD, strengthening my foun
 
 - Teaching assistant for Bachelor’s students in Condensed Matter Physics
 - Hosted visiting PhD students from DGIST Korea for three-month research stays
-- Supervised a RISE bachelor student project on RT-FMR with modulating coil field
+- Supervised a RISE bachelor student project on RT-FMR with a modulating coil field
 - Supported master-level projects on permalloy thin-film characterization and rare-earth iron garnets
 - Participated in the Mainz mentorship program
 - Completed an Intercultural Communication Seminar
 
 ## Research coordination and academic service
 
-- Spin+X student supply chain manager and speaker coordination
-- Subgroup manager meetings for magnetic insulators, oxides, and antiferromagnetic systems
-- Managed Zotero journal club organization
+- [SPIN+X](https://rptu.de/en/sfb-trr-173-spin-x) student supply chain manager: coordinated speakers and supported student supply-chain activities.
+- [Research subgroup](https://klaeui-lab.physics.uni-mainz.de/) manager: Organized and coordinated meetings focused on magnetic insulators, oxide materials, and antiferromagnetic systems.
+- Managed the [Zotero](https://www.zotero.org/) journal club, including reading-list organization and discussion coordination.
 
 ## Beamlines and facilities
 
-- BESSY II: XMCD-PEEM measurements on RuO₂
-- SLS/PSI: Muon spectroscopy on RuO₂ and proposal-related work
+- [BESSY II](https://www.helmholtz-berlin.de/forschung/oe/qm/spin-topologie/hitchhikersguide/bessy_en.html): [XMCD-PEEM](https://en.wikipedia.org/wiki/Photoemission_electron_microscopy) measurements on RuO₂.
+- [Swiss Light Source (SLS) / Paul Scherrer Institute (PSI)](https://www.psi.ch/en/lmu): [Muon spin spectroscopy (μSR)](https://en.wikipedia.org/wiki/Muon_spin_rotation) on RuO₂.
 
 ## Conferences and presentations
 
-- MMM–Intermag, New Orleans, 2025 — Talk
-- ICMFS, Perugia, 2024 — Talk
-- DPG SKM, Regensburg, 2022 — Poster
-- DPG SKM, Dresden, 2023 — Poster
-- International Conference on Advanced Materials, India, 2019 — Poster
-- Departmental Symposium on Advances in Physics, IIT Delhi, 2019 — Poster
-- JSSP, Apolda, 2021
+- [16th Joint Conference on Magnetism and Magnetic Materials and Intermag (MMM–Intermag 2025)](https://emfl.eu/16th-joint-conference-on-magnetism-and-magnetic-materials-and-intermag-new-orleans-usa-january-13-17-2025/), New Orleans, USA — Talk
+- [25th International Colloquium on Magnetic Films and Surfaces (ICMFS 2024)](https://www.icmfs2024.it/home/welcome), Perugia, Italy — Talk
+- [Deutsche Physikalische Gesellschaft (DPG), SKM Spring Meeting 2023](https://www.dpg-verhandlungen.de/year/2023/conference/dresden/part/skm), Dresden, Germany — Poster
+- [Deutsche Physikalische Gesellschaft (DPG), SKM Spring Meeting 2022](https://regensburg22.dpg-tagungen.de), Regensburg, Germany — Poster
+- [Joint School on Spin Physics 2021](https://www.trr227.de/dates/winterschool-2021.html), Apolda, Germany — Poster
+- [International Conference on Advanced Materials 2019](http://www.icamd.or.kr/2019/), JMI, India — Poster
+- [3rd Departmental Symposium on Advances in Physics 2019](https://www.cense.iisc.ac.in/sreekanth-maddaka/), IIT Delhi, India — Poster
+
 
 ## Education
 
-- PhD in Physics, Johannes Gutenberg University Mainz, 2021 – expected 2026
+- PhD in Physics, Johannes Gutenberg University Mainz, 2021 – 2026
 - Master of Science in Physics, Indian Institute of Technology Delhi, 2017 – 2019
 - Bachelor of Science in Physics, University of Delhi, Ramjas College, 2014 – 2017
 
 ## Awards and achievements
 
-- AIR-35, CSIR-NET 2019
-- AIR-107, IIT-JAM 2017
-- AIR-125, JEST 2017
-- AIR-706, GATE 2019
-- Top 2% nationally in CBSE Higher Secondary examinations
-- National-level gold medal in netball
+- Ranked 35th in India in [CSIR-NET 2019](https://en.wikipedia.org/wiki/National_Eligibility_Test).
+- Ranked 107th in India in [IIT-JAM 2017](https://en.wikipedia.org/wiki/Joint_Admission_Test_for_Masters).
+- Ranked 125th in India in [JEST 2017](https://en.wikipedia.org/wiki/Joint_Entrance_Screening_Test).
+- Ranked 706th in India in [GATE 2019](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering).
+- Ranked among the top 2% nationally in the [CBSE Higher Secondary Examination](https://en.wikipedia.org/wiki/Central_Board_of_Secondary_Education).
+- Won a gold medal at the national level in [netball](https://en.wikipedia.org/wiki/Netball).
 
 ## Languages
 
