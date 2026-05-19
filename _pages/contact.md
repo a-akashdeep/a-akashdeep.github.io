@@ -14,6 +14,8 @@ I am happy to connect about research, professional opportunities, collaborations
 - Google Scholar: [Google Scholar profile](https://scholar.google.co.in/citations?user=9uWMV5wAAAAJ&hl=en)
 - ORCID: [ORCID profile](https://orcid.org/0009-0001-9970-2437)
 
-You can also download my CV here:
+## CV and professional links
 
-[Download CV](/files/Akashdeep_CV.pdf)
+- [Download CV](/files/Akashdeep_CV.pdf)
+- [View my work](/work/)
+- [View publications](/publications/)
