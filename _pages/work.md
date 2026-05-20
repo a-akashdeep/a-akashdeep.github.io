@@ -6,9 +6,9 @@ author_profile: true
 
 **Experimental physics, spintronics, instrumentation, automation, data workflows, and technical project ownership.**
 
-I use this page as an extended project portfolio: a place to show the practical work behind my CV; experiments I built, systems I operated, measurements I automated, data workflows I developed, collaborations I supported, and people I mentored.
+I use this page as an extended project portfolio: a place to show the practical work behind my CV — experiments I built, systems I operated, measurements I automated, infrastructure I helped develop, data workflows I created, collaborations I supported, and people I trained or mentored.
 
-My strongest work sits at the intersection of **experimental design, magnetic materials, cryogenic measurement, thin-film systems, software automation, data analysis, and research coordination**. I enjoy turning ambiguous technical problems into measurable experiments, reliable workflows, and clear technical outputs.
+My strongest work sits at the intersection of **experimental design, magnetic materials, cryogenic measurement, thin-film infrastructure, software automation, data analysis, and research coordination**. I enjoy turning unclear technical problems into measurable experiments, reliable workflows, and clear technical outputs.
 
 [Download CV](/files/Akashdeep_CV.pdf){: .btn .btn--primary}
 [View Publications](/publications/){: .btn .btn--info}
@@ -16,72 +16,158 @@ My strongest work sits at the intersection of **experimental design, magnetic ma
 
 ---
 
-## At a glance
+<a id="contents"></a>
+
+## Contents
+
+Use these links to jump directly to a section:
+
+- [Featured strengths](#featured-strengths)
+- [Featured projects](#featured-projects)
+  - [Automated cryogenic spin-transport and magnetotransport platform](#automated-cryogenic-platform)
+  - [Integrated PLD/RHEED, vacuum-transfer suitcase, and shared tool ownership](#pld-rheed-vacuum-transfer)
+  - [RuO₂/permalloy spin-current magnetoresistance project](#ruo2-permalloy-project)
+  - [Python/HDF5 experimental data workflows](#python-hdf5-workflows)
+  - [Large-scale facility experiments](#facility-experiments)
+  - [Cryogenic magnetotransport and device-measurement workflow](#cryogenic-device-workflow)
+  - [Heusler alloy thin films for spintronic device applications](#heusler-alloy-project)
+- [Collaborative research contributions](#collaborative-research)
+- [Project coordination, mentoring, and leadership](#coordination-mentoring-leadership)
+- [Technical skill map](#technical-skill-map)
+- [How I work](#how-i-work)
+
+---
+
+<a id="featured-strengths"></a>
+
+## Featured strengths
 
 | Area | What I bring |
 |---|---|
 | **Experimental platforms** | Built, operated, automated, and troubleshot complex spin/magnon transport and magnetotransport setups |
 | **Measurement automation** | Developed LabVIEW workflows for cryostat and FMR-based measurements, including long unattended runs |
-| **Thin-film systems** | Worked with PLD, sputtering, RHEED integration, built vacuum transfer suitcases, device fabrication, and characterization |
+| **Thin-film infrastructure** | Worked across PLD, sputtering, RHEED integration, vacuum-transfer workflows, oxygen ion etching, tool ownership, user training, and SOP development |
 | **Cryogenic transport** | Performed low-temperature, high-field electrical and magnetic measurements down to approximately 2–3 K |
 | **Data workflows** | Built Python/HDF5 analysis pipelines for large experimental datasets, plotting, fitting, and signal classification |
-| **Project coordination** | Coordinated users, tools, beamtime, collaborators, samples, metadata, and experimental milestones |
-| **Communication & mentoring** | Supported students, visiting researchers, collaborators, internal seminars, talks, posters, and technical documentation |
+| **Project coordination** | Coordinated users, tools, beamtime, collaborators, samples, metadata, consumables, and experimental milestones |
+| **Communication & mentoring** | Supported students, visiting researchers, collaborators, internal seminars, talks, posters, SOPs, and technical documentation |
+
+[Back to contents](#contents)
 
 ---
 
-## Featured projects
+<a id="featured-projects"></a>
 
-These are the projects I would highlight first to industry recruiters, R&D teams, experimental research groups, and technical hiring managers.
+# Featured projects
+
+These are the projects I would highlight first to industry recruiters, R&D teams, experimental research groups, and technical hiring managers. I place the strongest direct-ownership work first: systems I helped build, operate, automate, document, and coordinate.
 
 ---
 
-## 1. Thin-film growth, PLD/RHEED integration, and shared-tool ownership
+<a id="automated-cryogenic-platform"></a>
 
-**Type:** Instrumentation, thin-film growth, vacuum systems, user support  
-**Role:** Local tool owner / operator / user-support lead  
+## 1. Automated cryogenic spin-transport and magnetotransport platform
+
+**Type:** Experimental platform, measurement automation, data acquisition  
+**Role:** Direct technical contributor / operator / workflow developer
 
 ### Summary
 
-Served as a main operator and local tool owner for high-value thin-film deposition infrastructure, including PLD, magnetron sputtering, oxygen ion etching, RHEED integration, and vacuum-transfer workflows.
+Designed, built, operated, and automated complex experimental platforms for spin and magnon transport measurements. The systems combined cryogenic environments, superconducting magnets, low-noise electronics, lock-in detection, multi-channel wiring, sample rotation, and automated data acquisition.
 
 ### Problem
 
-Advanced magnetic thin-film research depends on reliable growth infrastructure, clean process flows, trained users, stable tool access, and careful coordination between deposition, patterning, and measurement steps.
+Spintronic and magnetic thin-film devices often require long measurement runs across many parameters: magnetic field, temperature, angle, frequency, device geometry, and harmonic detection channel. Manual operation is slow, error-prone, and difficult to reproduce.
 
 ### My contribution
 
-- Operated excimer-laser PLD infrastructure and magnetron sputtering systems
-- Helped assemble and commission a 4-gun magnetron sputtering system
-- Integrated RHEED with a PLD chamber, including alignment, calibration, validation, and user procedures
-- Designed and tested a vacuum suitcase transfer workflow between PLD and sputtering systems
-- Coordinated tool scheduling, user onboarding, process support, safety guidance, and troubleshooting
-- Managed expensive consumables such as targets, process gases, and excimer gases
-- Supported cleanroom and deposition users across thin-film growth, patterning, and device workflows
+- Developed and used LabVIEW-based control and automation workflows for cryostat and FMR-based measurements
+- Enabled multi-day measurement runs with automated field and temperature sweeps
+- Integrated data logging, alarm handling, remote monitoring, and measurement stability checks
+- Maintained device wiring maps, contact verification routines, lock-in configurations, and quality-control checks
+- Performed first- and second-harmonic detection with simultaneous longitudinal and transverse readout
 
 ### Methods and tools
 
-PLD, DC/RF magnetron sputtering, reactive sputtering, RHEED, oxygen ion etching, vacuum suitcase transfer, UHV systems, target exchange, substrate heating, process gases, tool scheduling, SOPs.
+LabVIEW, lock-in amplifiers, superconducting magnets, cryostats, low-noise electronics, multi-channel wiring, field/temperature sweep protocols, harmonic detection, magnetotransport, FMR-based workflows.
 
 ### Deliverables and impact
 
-- Improved usability and reliability of shared experimental infrastructure
-- Supported multiple users and research projects through tool access, training, and troubleshooting
-- Created practical operating procedures, safety routines, and process guidance
-- Helped connect thin-film growth workflows to downstream characterization and device fabrication
+- More reliable long-duration measurements
+- Reduced manual intervention during cryogenic experiments
+- Better reproducibility across devices and parameter sweeps
+- Faster comparison between samples, geometries, and measurement conditions
+- Measurement workflows that could be used and understood by other researchers
 
 ### Skills demonstrated
 
-Instrumentation, vacuum systems, thin-film processing, user training, technical ownership, safety awareness, process coordination, troubleshooting.
+Experimental design, automation, instrumentation, troubleshooting, cryogenics, low-noise measurement, data quality control, technical documentation.
+
+[Back to contents](#contents)
 
 ---
 
+<a id="pld-rheed-vacuum-transfer"></a>
 
-## 2. RuO₂/permalloy spin-current magnetoresistance project
+## 2. Integrated PLD/RHEED, vacuum-transfer suitcase, and shared tool ownership
+
+**Type:** Thin-film infrastructure, vacuum systems, instrumentation, user training, SOP development  
+**Role:** Local tool owner / operator / trainer / workflow coordinator
+
+### Summary
+
+Owned and supported a connected thin-film infrastructure workflow involving **PLD, magnetron sputtering, RHEED integration, oxygen ion etching, and a vacuum-transfer suitcase** for moving samples between PLD and sputtering systems without breaking vacuum.
+
+This project is one of my strongest examples of practical experimental ownership: it combined hardware integration, vacuum-system thinking, process development, user training, documentation, scheduling, troubleshooting, and coordination across multiple users and research projects.
+
+### Problem
+
+Advanced thin-film research often requires more than one deposition or characterization tool. Samples may need to move between PLD, sputtering, RHEED inspection, ion etching, and downstream device fabrication. Breaking vacuum between steps can affect surface quality, interface control, oxidation state, contamination, and reproducibility.
+
+At the same time, shared high-value tools require clear user procedures, safe operating rules, scheduling discipline, consumable management, troubleshooting routines, and practical training so that multiple researchers can use the infrastructure reliably.
+
+### My contribution
+
+- Operated and supported excimer-laser PLD infrastructure for oxide thin-film growth
+- Operated and supported magnetron sputtering infrastructure for metallic and oxide thin-film deposition
+- Worked with oxygen ion-etching capability as part of thin-film and device-processing workflows
+- Integrated a RHEED system with a PLD chamber, including mechanical/vacuum integration, alignment, calibration testing, process validation, and routine-use procedures
+- Built and tested a vacuum-transfer suitcase workflow to transfer samples between PLD and sputtering systems without breaking vacuum
+- Checked transfer reliability, vacuum compatibility, sample handling, and tool-to-tool interface procedures
+- Trained users on PLD operation, sputtering workflows, RHEED use, and vacuum-transfer suitcase handling
+- Prepared and improved SOPs, checklists, startup/shutdown procedures, alignment checks, safety instructions, and user-facing documentation
+- Coordinated tool scheduling, user onboarding, access management, process-flow support, and troubleshooting
+- Managed expensive consumables such as excimer gases, process gases, deposition targets, substrates, and other shared resources
+- Supported cleanroom and deposition users by aligning thin-film growth, patterning, device fabrication, and measurement timelines
+
+### Methods and tools
+
+PLD, excimer laser operation, RHEED, DC/RF magnetron sputtering, reactive sputtering, oxygen ion etching, vacuum suitcase transfer, high-vacuum and ultra-high-vacuum systems, target exchange, substrate heating, process gases, cleanroom workflows, SOPs, user training, tool scheduling.
+
+### Deliverables and impact
+
+- Created a more connected thin-film workflow between PLD and sputtering systems
+- Enabled vacuum-preserving sample transfer between deposition environments
+- Improved routine usability of PLD/RHEED and sputtering-related workflows
+- Reduced dependence on informal knowledge by creating SOPs, checklists, and user-facing documentation
+- Trained and supported users so that shared infrastructure could be operated more safely and consistently
+- Helped align growth, fabrication, characterization, and measurement steps across multiple projects
+- Strengthened tool uptime, user confidence, and experimental reproducibility
+
+### Skills demonstrated
+
+Instrumentation ownership, vacuum-system integration, thin-film processing, RHEED alignment and validation, PLD/sputter workflow coordination, SOP writing, user training, process troubleshooting, technical leadership, shared-tool management.
+
+[Back to contents](#contents)
+
+---
+
+<a id="ruo2-permalloy-project"></a>
+
+## 3. RuO₂/permalloy spin-current magnetoresistance project
 
 **Type:** Spintronics research, magnetotransport, altermagnetic materials  
-**Role:** Major direct research contribution / first-author project  
-
+**Role:** Major direct research contribution / first-author project
 
 ### Summary
 
@@ -117,12 +203,16 @@ First-author publication in *Physical Review Applied*.
 
 Spintronics, magnetotransport, symmetry analysis, experimental design, data interpretation, scientific writing, mechanism separation.
 
+[Back to contents](#contents)
+
 ---
 
-## 3. Python/HDF5 experimental data workflows
+<a id="python-hdf5-workflows"></a>
+
+## 4. Python/HDF5 experimental data workflows
 
 **Type:** Data analysis, reproducible research, automation  
-**Role:** Direct developer / analysis workflow builder  
+**Role:** Direct developer / analysis workflow builder
 
 ### Summary
 
@@ -155,12 +245,16 @@ Python, pandas, NumPy, matplotlib, HDF5, OriginPro, reproducible plotting, batch
 
 Scientific programming, data engineering, reproducible analysis, automation, visualization, statistical thinking, communication through figures.
 
+[Back to contents](#contents)
+
 ---
 
-## 4. Large-scale facility experiments: synchrotron, PEEM, and low-energy muon spectroscopy
+<a id="facility-experiments"></a>
+
+## 5. Large-scale facility experiments: synchrotron, PEEM, and low-energy muon spectroscopy
 
 **Type:** Facility science, proposal writing, collaborative experiments  
-**Role:** Proposal contributor / local coordinator / experimental support  
+**Role:** Proposal contributor / local coordinator / experimental support
 
 ### Summary
 
@@ -191,13 +285,16 @@ XMLD/XMCD-PEEM, synchrotron X-ray measurements, low-energy muon spectroscopy, be
 
 Proposal writing, facility coordination, experimental preparation, collaboration, data interpretation, communication under time pressure.
 
+[Back to contents](#contents)
+
 ---
 
-## 5. Cryogenic magnetotransport and device-measurement workflow
+<a id="cryogenic-device-workflow"></a>
+
+## 6. Cryogenic magnetotransport and device-measurement workflow
 
 **Type:** Measurement workflow, device characterization, cryogenics  
-**Role:** Direct operator / workflow developer  
-
+**Role:** Direct operator / workflow developer
 
 ### Summary
 
@@ -230,52 +327,16 @@ Cryogenic transport, Hall-bar geometries, four-probe measurements, lock-in detec
 
 Device characterization, cryogenics, low-noise electronics, sample preparation, measurement planning, troubleshooting.
 
----
-
-## 6. Automated cryogenic spin-transport and magnetotransport platform
-
-**Type:** Experimental platform, measurement automation, data acquisition  
-**Role:** Direct technical contributor / operator / workflow developer  
-
-### Summary
-
-Designed, built, operated, and automated complex experimental platforms for spin and magnon transport measurements. The systems combined cryogenic environments, superconducting magnets, low-noise electronics, lock-in detection, multi-channel wiring, sample rotation, and automated data acquisition.
-
-### Problem
-
-Spintronic and magnetic thin-film devices often require long measurement runs across many parameters: magnetic field, temperature, angle, frequency, device geometry, and harmonic detection channel. Manual operation is slow, error-prone, and difficult to reproduce.
-
-### My contribution
-
-- Developed and used LabVIEW-based control and automation workflows for cryostat and FMR-based measurements
-- Enabled multi-day measurement runs with automated field and temperature sweeps
-- Integrated data logging, alarm handling, remote monitoring, and measurement stability checks
-- Maintained device wiring maps, contact verification routines, lock-in configurations, and quality-control checks
-- Performed first- and second-harmonic detection with simultaneous longitudinal and transverse readout
-
-### Methods and tools
-
-LabVIEW, lock-in amplifiers, superconducting magnets, cryostats, low-noise electronics, multi-channel wiring, field/temperature sweep protocols, harmonic detection, magnetotransport, FMR-based workflows.
-
-### Deliverables and impact
-
-- More reliable long-duration measurements
-- Reduced manual intervention during cryogenic experiments
-- Better reproducibility across devices and parameter sweeps
-- Faster comparison between samples, geometries, and measurement conditions
-- Measurement workflows that could be used and understood by other researchers
-
-### Skills demonstrated
-
-Experimental design, automation, instrumentation, troubleshooting, cryogenics, low-noise measurement, data quality control, technical documentation.
+[Back to contents](#contents)
 
 ---
+
+<a id="heusler-alloy-project"></a>
 
 ## 7. Heusler alloy thin films for spintronic device applications
 
 **Type:** Master’s / research assistant project, thin-film materials, transport  
-**Role:** Direct research contributor  
-**Relevant for:** Materials R&D, thin-film processing, magnetic devices, semiconductor-adjacent roles
+**Role:** Direct research contributor
 
 ### Summary
 
@@ -309,7 +370,11 @@ Magnetron sputtering, temperature-dependent electrical transport, magnetic aniso
 
 Thin-film growth, process optimization, custom instrumentation, transport measurement, magnetic characterization, technical reporting.
 
+[Back to contents](#contents)
+
 ---
+
+<a id="collaborative-research"></a>
 
 # Collaborative research contributions
 
@@ -320,8 +385,7 @@ The following projects involved larger collaborations. I include them because th
 ## 8. Altermagnetism in RuO₂, hematite, and related materials
 
 **Type:** Collaborative research, magnetic symmetry, advanced characterization  
-**Role:** Experimental contributor / collaborator depending on project  
-**Relevant for:** Research collaboration, materials science, spintronics, quantum materials
+**Role:** Experimental contributor / collaborator depending on project
 
 ### Summary
 
@@ -355,8 +419,7 @@ Coauthored publications and manuscripts on RuO₂, hematite, and d-wave altermag
 ## 9. Magnon transport and ferrimagnetic garnet systems
 
 **Type:** Spin dynamics, magnonics, ferrimagnetic systems  
-**Role:** Research contributor / collaborator  
-**Relevant for:** Spintronics, magnonics, magnetic device concepts, experimental R&D
+**Role:** Research contributor / collaborator
 
 ### Summary
 
@@ -385,7 +448,11 @@ FMR, broadband VNA-FMR, spin pumping, spin Seebeck effect, inverse spin Hall det
 
 Coauthored work on YIG/GdIG/Pt trilayers, TbIG/Pt systems, and altermagnetic magnon transport.
 
+[Back to contents](#contents)
+
 ---
+
+<a id="coordination-mentoring-leadership"></a>
 
 # Project coordination, mentoring, and leadership
 
@@ -396,12 +463,13 @@ Technical work is not only about measurements. Many successful experiments depen
 ## 10. Shared-tool user management and research coordination
 
 **Type:** Technical project management, user support, shared infrastructure  
-**Role:** Local system owner / coordinator  
-**Relevant for:** R&D project coordination, lab management, process engineering, team-based technical roles
+**Role:** Local system owner / coordinator
 
 ### Summary
 
 Managed shared experimental infrastructure and coordinated users, tools, schedules, consumables, and process flows across multiple research projects.
+
+This work connects directly with the PLD/RHEED/sputter/vacuum-transfer infrastructure described above: keeping such systems useful requires not only technical operation, but also user onboarding, clear procedures, fair scheduling, consumable tracking, safety awareness, and rapid troubleshooting.
 
 ### My contribution
 
@@ -410,6 +478,7 @@ Managed shared experimental infrastructure and coordinated users, tools, schedul
 - Created practical usage rules, onboarding procedures, safe-operation checklists, handover expectations, and escalation routes
 - Coordinated targets, substrates, chemicals, gases, consumables, delivery timelines, and experimental schedules
 - Helped align material availability with growth runs, fabrication, cryogenic measurements, and beamtime deadlines
+- Supported users in choosing feasible process flows across PLD, sputtering, RHEED, transfer, cleanroom processing, and measurement steps
 
 ### What this shows
 
@@ -417,14 +486,14 @@ Managed shared experimental infrastructure and coordinated users, tools, schedul
 - Ability to balance technical, operational, and people-related constraints
 - Practical leadership without relying on formal authority
 - Strong organization under real experimental pressure
+- Ability to make advanced infrastructure usable for other people
 
 ---
 
 ## 11. Mentoring students and visiting researchers
 
 **Type:** Teaching, mentoring, technical supervision  
-**Role:** Mentor / supervisor / host  
-**Relevant for:** Team-based R&D, academic research, technical training, leadership development
+**Role:** Mentor / supervisor / host
 
 ### Summary
 
@@ -436,6 +505,7 @@ Mentored and supported B.Sc. and M.Sc. students, visiting PhD researchers, and e
 - Guided hands-on workflows including cleanroom processing, electrical contacting, cryostat measurements, data-quality checks, and Python-based analysis
 - Helped students prepare theses, figures, posters, presentations, and explanations of limitations or uncertainties
 - Hosted and supported visiting researchers from international groups, including lab introductions, safety orientation, logistics, tool access, and integration into ongoing workflows
+- Trained users on experimental tools and workflows, including PLD, sputtering, RHEED-related procedures, vacuum-transfer handling, and measurement preparation
 
 ### What this shows
 
@@ -443,14 +513,14 @@ Mentored and supported B.Sc. and M.Sc. students, visiting PhD researchers, and e
 - Patience and structure in mentoring
 - Cross-cultural communication
 - Practical support for project execution and learning
+- Ability to turn tacit lab knowledge into teachable workflows
 
 ---
 
 ## 12. Scientific communication and technical storytelling
 
 **Type:** Communication, presentations, reporting  
-**Role:** Presenter / manuscript contributor / technical communicator  
-**Relevant for:** R&D communication, stakeholder updates, technical documentation, collaboration-facing roles
+**Role:** Presenter / manuscript contributor / technical communicator
 
 ### Summary
 
@@ -461,7 +531,7 @@ Presented research progress and technical results to professors, collaborators, 
 - Conference talks and posters on magnetism, spintronics, RuO₂-based systems, magnon transport, magnetoresistance, and Hall effects
 - Internal seminars and subgroup updates explaining new results, measurement artifacts, theory–experiment links, and follow-up plans
 - Beamtime updates, technical reports, figures, and manuscripts
-- Documentation for tools, workflows, and user-facing procedures
+- Documentation for tools, workflows, SOPs, user-facing procedures, and analysis routines
 
 ### What this shows
 
@@ -470,7 +540,11 @@ Presented research progress and technical results to professors, collaborators, 
 - Experience preparing publication-quality figures and structured technical explanations
 - Ability to identify uncertainty, limitations, and next steps
 
+[Back to contents](#contents)
+
 ---
+
+<a id="technical-skill-map"></a>
 
 # Technical skill map
 
@@ -486,28 +560,38 @@ Presented research progress and technical results to professors, collaborators, 
 - Ferromagnetic resonance, spin pumping, and spin Seebeck measurements
 - MOKE, XMCD/XMLD-PEEM, MCD-XPS exposure, low-energy muon spectroscopy
 
-## Thin-film growth and fabrication
+## Thin-film growth, transfer, and fabrication
 
 - Pulsed laser deposition
+- Excimer-laser PLD operation
 - DC/RF magnetron sputtering
 - Reactive sputtering
+- Oxygen ion etching
+- RHEED integration with PLD chamber
+- RHEED alignment, calibration checks, and process validation
+- Vacuum suitcase transfer between PLD and sputter systems
+- Vacuum-preserving sample handling between deposition environments
 - Thermal evaporation
 - Chemical/spin coating exposure
-- RHEED integration and thin-film process monitoring
 - Optical and e-beam lithography
 - Ion etching, lift-off, annealing, wire bonding
 - Cleanroom workflows and device preparation
 
-## Instrumentation and systems
+## Instrumentation, systems, and tool ownership
 
 - High-vacuum and ultra-high-vacuum systems
 - Excimer-laser PLD infrastructure
+- Magnetron sputtering infrastructure
 - 4-gun magnetron sputtering system
 - Oxygen ion etching capability
-- Vacuum suitcase transfer between deposition tools
+- RHEED/PLD workflow integration
+- Vacuum suitcase transfer workflow
 - Cryostats and superconducting magnets
 - Low-noise electronics, lock-in amplifiers, multi-channel wiring
-- SOPs, checklists, manuals, and user training material
+- Tool scheduling and user access coordination
+- User onboarding, tool training, and safe-operation guidance
+- SOPs, checklists, manuals, and troubleshooting documentation
+- Consumable coordination: targets, substrates, process gases, excimer gases, chemicals, and shared resources
 
 ## Data, software, and analysis
 
@@ -527,9 +611,14 @@ Presented research progress and technical results to professors, collaborators, 
 - Multi-institutional collaboration across Europe, Asia, and the USA
 - Sample, metadata, and data exchange
 - Tool scheduling and user management
-- Mentoring, training, speaker coordination, and journal club organization
+- Mentoring, training, speaker coordination, and journal-club organization
+- Shared infrastructure coordination across growth, fabrication, characterization, and measurement workflows
+
+[Back to contents](#contents)
 
 ---
+
+<a id="how-i-work"></a>
 
 # How I work
 
@@ -539,28 +628,32 @@ I like technical problems that require both depth and structure. My approach is 
    What exactly needs to be measured, compared, or ruled out?
 
 2. **Build a reliable workflow**  
-   What setup, protocol, wiring, automation, calibration, and data structure are needed?
+   What setup, protocol, wiring, automation, calibration, tool procedure, and data structure are needed?
 
 3. **Check the signal carefully**  
-   What could be an artifact? What depends on geometry, temperature, field, angle, or device history?
+   What could be an artifact? What depends on geometry, temperature, field, angle, device history, or tool condition?
 
 4. **Make the result usable**  
-   Can the workflow be repeated? Can the data be understood by collaborators? Can the conclusion be explained clearly?
+   Can the workflow be repeated? Can the tool be used safely by someone else? Can the data be understood by collaborators? Can the conclusion be explained clearly?
 
 5. **Support the team around the work**  
    Document procedures, train users, coordinate tasks, and communicate limitations honestly.
 
 ---
 
-# What this all shows
+# What this portfolio shows
 
 Across these projects, I want to show more than a list of academic outputs. The common thread is practical technical ownership:
 
 - Building and operating complex experimental systems
+- Integrating thin-film tools, RHEED workflows, and vacuum-transfer infrastructure
 - Automating measurements and improving reliability
 - Turning large experimental datasets into interpretable results
 - Connecting material systems, devices, instruments, and data
-- Coordinating people, tools, samples, and timelines
+- Coordinating people, tools, samples, consumables, and timelines
+- Training users and turning lab knowledge into SOPs and reproducible workflows
 - Communicating complex physics clearly to different audiences
 
 For a formal publication list, see [Publications](/publications/). For a concise PDF summary, download my [CV](/files/Akashdeep_CV.pdf).
+
+[Back to contents](#contents)
