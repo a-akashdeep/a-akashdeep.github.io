@@ -8,7 +8,6 @@ I am happy to connect about research, professional opportunities, collaborations
 
 - Email: [ghalayan.akashdeep@gmail.com](mailto:ghalayan.akashdeep@gmail.com)
 - LinkedIn: [akashdeep-condensed-matter](https://www.linkedin.com/in/akashdeep-condensed-matter)
-- GitHub: [a-akashdeep](https://github.com/a-akashdeep)
 - Google Scholar: [Google Scholar profile](https://scholar.google.co.in/citations?user=9uWMV5wAAAAJ&hl=en)
 - ORCID: [ORCID profile](https://orcid.org/0009-0001-9970-2437)
 
