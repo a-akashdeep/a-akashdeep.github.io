@@ -4,11 +4,11 @@ permalink: /work/
 author_profile: true
 ---
 
-**Experimental physics, spintronics, instrumentation, automation, data workflows, and technical project ownership.**
+**[Experimental physics](https://en.wikipedia.org/wiki/Experimental_physics), [spintronics](https://en.wikipedia.org/wiki/Spintronics), instrumentation, automation, data workflows, and technical project ownership.**
 
-I use this page as an extended project portfolio: a place to show the practical work behind my CV — experiments I built, systems I operated, measurements I automated, infrastructure I helped develop, data workflows I created, collaborations I supported, and people I trained or mentored.
+I use this page as an extended project portfolio — a place to showcase the practical work behind my CV: experiments I built, systems I operated, measurements I automated, infrastructure I helped develop, data workflows I created, collaborations I supported, and people I trained or mentored.
 
-My strongest work sits at the intersection of **experimental design, magnetic materials, cryogenic measurement, thin-film infrastructure, software automation, data analysis, and research coordination**. I enjoy turning unclear technical problems into measurable experiments, reliable workflows, and clear technical outputs.
+My strongest work sits at the intersection of **experimental design, [magnetic materials](https://en.wikipedia.org/wiki/Magnetism), [cryogenic](https://en.wikipedia.org/wiki/Cryogenics) measurement, [thin-film](https://en.wikipedia.org/wiki/Thin_film) infrastructure, software automation, data analysis, and research coordination**. I enjoy turning ambiguous technical problems into measurable experiments, reliable workflows, and clear technical outputs.
 
 [Download CV](/files/Akashdeep_CV.pdf){: .btn .btn--primary}
 [View Publications](/publications/){: .btn .btn--info}
@@ -19,8 +19,6 @@ My strongest work sits at the intersection of **experimental design, magnetic ma
 <a id="contents"></a>
 
 ## Contents
-
-Use these links to jump directly to a section:
 
 - [Featured strengths](#featured-strengths)
 - [Featured projects](#featured-projects)
@@ -44,12 +42,12 @@ Use these links to jump directly to a section:
 
 | Area | What I bring |
 |---|---|
-| **Experimental platforms** | Built, operated, automated, and troubleshot complex spin/magnon transport and magnetotransport setups |
-| **Measurement automation** | Developed LabVIEW workflows for cryostat and FMR-based measurements, including long unattended runs |
-| **Thin-film infrastructure** | Worked across PLD, sputtering, RHEED integration, vacuum-transfer workflows, oxygen ion etching, tool ownership, user training, and SOP development |
+| **Experimental platforms** | Built, operated, automated, and troubleshot complex [spin](https://en.wikipedia.org/wiki/Spin_(physics)) / [magnon](https://en.wikipedia.org/wiki/Magnon) transport and [magnetotransport](https://en.wikipedia.org/wiki/Magnetoresistance) setups |
+| **Measurement automation** | Developed [LabVIEW](https://www.ni.com/en/shop/labview.html) workflows for [cryostat](https://en.wikipedia.org/wiki/Cryostat) and [FMR](https://en.wikipedia.org/wiki/Ferromagnetic_resonance)-based measurements, including long unattended runs |
+| **Thin-film infrastructure** | Worked across [PLD](https://en.wikipedia.org/wiki/Pulsed_laser_deposition), [sputtering](https://en.wikipedia.org/wiki/Sputter_deposition), [RHEED](https://en.wikipedia.org/wiki/Reflection_high-energy_electron_diffraction) integration, vacuum-transfer workflows, [oxygen ion etching](https://en.wikipedia.org/wiki/Ion_beam_etching), tool ownership, user training, and SOP development |
 | **Cryogenic transport** | Performed low-temperature, high-field electrical and magnetic measurements down to approximately 2–3 K |
-| **Data workflows** | Built Python/HDF5 analysis pipelines for large experimental datasets, plotting, fitting, and signal classification |
-| **Project coordination** | Coordinated users, tools, beamtime, collaborators, samples, metadata, consumables, and experimental milestones |
+| **Data workflows** | Built [Python](https://www.python.org/) / [HDF5](https://www.hdfgroup.org/solutions/hdf5/) analysis pipelines for large experimental datasets, plotting, fitting, and signal classification |
+| **Project coordination** | Coordinated users, tools, [beamtime](https://en.wikipedia.org/wiki/Synchrotron_light_source), collaborators, samples, metadata, consumables, and experimental milestones |
 | **Communication & mentoring** | Supported students, visiting researchers, collaborators, internal seminars, talks, posters, SOPs, and technical documentation |
 
 [Back to contents](#contents)
@@ -58,9 +56,7 @@ Use these links to jump directly to a section:
 
 <a id="featured-projects"></a>
 
-# Featured projects
-
-These are the projects I would highlight first to industry recruiters, R&D teams, experimental research groups, and technical hiring managers. I place the strongest direct-ownership work first: systems I helped build, operate, automate, document, and coordinate.
+# Projects
 
 ---
 
@@ -73,7 +69,7 @@ These are the projects I would highlight first to industry recruiters, R&D teams
 
 ### Summary
 
-Designed, built, operated, and automated complex experimental platforms for spin and magnon transport measurements. The systems combined cryogenic environments, superconducting magnets, low-noise electronics, lock-in detection, multi-channel wiring, sample rotation, and automated data acquisition.
+Designed, built, operated, and automated complex experimental platforms for spin and magnon transport measurements. The systems combined [cryogenic environments](https://en.wikipedia.org/wiki/Cryogenics), [superconducting magnets](https://en.wikipedia.org/wiki/Superconducting_magnet), low-noise electronics, [lock-in detection](https://en.wikipedia.org/wiki/Lock-in_amplifier), multi-channel wiring, sample rotation, and automated data acquisition.
 
 ### Problem
 
@@ -81,7 +77,7 @@ Spintronic and magnetic thin-film devices often require long measurement runs ac
 
 ### My contribution
 
-- Developed and used LabVIEW-based control and automation workflows for cryostat and FMR-based measurements
+- Developed and used [LabVIEW](https://www.ni.com/en/shop/labview.html)-based control and automation workflows for cryostat and FMR-based measurements
 - Enabled multi-day measurement runs with automated field and temperature sweeps
 - Integrated data logging, alarm handling, remote monitoring, and measurement stability checks
 - Maintained device wiring maps, contact verification routines, lock-in configurations, and quality-control checks
@@ -89,7 +85,7 @@ Spintronic and magnetic thin-film devices often require long measurement runs ac
 
 ### Methods and tools
 
-LabVIEW, lock-in amplifiers, superconducting magnets, cryostats, low-noise electronics, multi-channel wiring, field/temperature sweep protocols, harmonic detection, magnetotransport, FMR-based workflows.
+[LabVIEW](https://www.ni.com/en/shop/labview.html), [lock-in amplifiers](https://en.wikipedia.org/wiki/Lock-in_amplifier), [superconducting magnets](https://en.wikipedia.org/wiki/Superconducting_magnet), [cryostats](https://en.wikipedia.org/wiki/Cryostat), low-noise electronics, multi-channel wiring, field/temperature sweep protocols, harmonic detection, [magnetotransport](https://en.wikipedia.org/wiki/Magnetoresistance), [FMR](https://en.wikipedia.org/wiki/Ferromagnetic_resonance)-based workflows.
 
 ### Deliverables and impact
 
@@ -116,9 +112,9 @@ Experimental design, automation, instrumentation, troubleshooting, cryogenics, l
 
 ### Summary
 
-Owned and supported a connected thin-film infrastructure workflow involving **PLD, magnetron sputtering, RHEED integration, oxygen ion etching, and a vacuum-transfer suitcase** for moving samples between PLD and sputtering systems without breaking vacuum.
+Owned and supported a connected thin-film infrastructure workflow involving **[PLD](https://en.wikipedia.org/wiki/Pulsed_laser_deposition), [magnetron sputtering](https://en.wikipedia.org/wiki/Sputter_deposition), [RHEED](https://en.wikipedia.org/wiki/Reflection_high-energy_electron_diffraction) integration, [oxygen ion etching](https://en.wikipedia.org/wiki/Ion_beam_etching), and a vacuum-transfer suitcase** for moving samples between PLD and sputtering systems without breaking vacuum.
 
-This project is one of my strongest examples of practical experimental ownership: it combined hardware integration, vacuum-system thinking, process development, user training, documentation, scheduling, troubleshooting, and coordination across multiple users and research projects.
+This project is one of my strongest examples of practical experimental ownership: it combined hardware integration, [vacuum-system](https://en.wikipedia.org/wiki/Vacuum) thinking, process development, user training, documentation, scheduling, troubleshooting, and coordination across multiple users and research projects.
 
 ### Problem
 
@@ -128,21 +124,21 @@ At the same time, shared high-value tools require clear user procedures, safe op
 
 ### My contribution
 
-- Operated and supported excimer-laser PLD infrastructure for oxide thin-film growth
+- Operated and supported [excimer-laser](https://en.wikipedia.org/wiki/Excimer_laser) PLD infrastructure for oxide thin-film growth
 - Operated and supported magnetron sputtering infrastructure for metallic and oxide thin-film deposition
 - Worked with oxygen ion-etching capability as part of thin-film and device-processing workflows
 - Integrated a RHEED system with a PLD chamber, including mechanical/vacuum integration, alignment, calibration testing, process validation, and routine-use procedures
 - Built and tested a vacuum-transfer suitcase workflow to transfer samples between PLD and sputtering systems without breaking vacuum
 - Checked transfer reliability, vacuum compatibility, sample handling, and tool-to-tool interface procedures
 - Trained users on PLD operation, sputtering workflows, RHEED use, and vacuum-transfer suitcase handling
-- Prepared and improved SOPs, checklists, startup/shutdown procedures, alignment checks, safety instructions, and user-facing documentation
+- Prepared and improved [SOPs](https://en.wikipedia.org/wiki/Standard_operating_procedure), checklists, startup/shutdown procedures, alignment checks, safety instructions, and user-facing documentation
 - Coordinated tool scheduling, user onboarding, access management, process-flow support, and troubleshooting
 - Managed expensive consumables such as excimer gases, process gases, deposition targets, substrates, and other shared resources
-- Supported cleanroom and deposition users by aligning thin-film growth, patterning, device fabrication, and measurement timelines
+- Supported [cleanroom](https://en.wikipedia.org/wiki/Cleanroom) and deposition users by aligning thin-film growth, patterning, device fabrication, and measurement timelines
 
 ### Methods and tools
 
-PLD, excimer laser operation, RHEED, DC/RF magnetron sputtering, reactive sputtering, oxygen ion etching, vacuum suitcase transfer, high-vacuum and ultra-high-vacuum systems, target exchange, substrate heating, process gases, cleanroom workflows, SOPs, user training, tool scheduling.
+[PLD](https://en.wikipedia.org/wiki/Pulsed_laser_deposition), [excimer laser](https://en.wikipedia.org/wiki/Excimer_laser) operation, [RHEED](https://en.wikipedia.org/wiki/Reflection_high-energy_electron_diffraction), [DC/RF magnetron sputtering](https://en.wikipedia.org/wiki/Sputter_deposition), [reactive sputtering](https://en.wikipedia.org/wiki/Sputter_deposition#Reactive_sputtering), [oxygen ion etching](https://en.wikipedia.org/wiki/Ion_beam_etching), vacuum suitcase transfer, [high-vacuum](https://en.wikipedia.org/wiki/Vacuum) and [ultra-high-vacuum](https://en.wikipedia.org/wiki/Ultra-high_vacuum) systems, target exchange, substrate heating, process gases, cleanroom workflows, SOPs, user training, tool scheduling.
 
 ### Deliverables and impact
 
@@ -166,16 +162,16 @@ Instrumentation ownership, vacuum-system integration, thin-film processing, RHEE
 
 ## 3. RuO₂/permalloy spin-current magnetoresistance project
 
-**Type:** Spintronics research, magnetotransport, altermagnetic materials  
+**Type:** Spintronics research, magnetotransport, [altermagnetic](https://en.wikipedia.org/wiki/Altermagnetism) materials  
 **Role:** Major direct research contribution / first-author project
 
 ### Summary
 
-Investigated angle-dependent magnetoresistance in RuO₂/permalloy heterostructures to understand whether observed transport signals originate from intrinsic altermagnetic effects, interface-generated spin currents, or measurement-geometry contributions.
+Investigated [angle-dependent magnetoresistance](https://en.wikipedia.org/wiki/Magnetoresistance) in [RuO₂](https://en.wikipedia.org/wiki/Ruthenium_dioxide) / [permalloy](https://en.wikipedia.org/wiki/Permalloy) heterostructures to understand whether observed transport signals originate from intrinsic altermagnetic effects, interface-generated spin currents, or measurement-geometry contributions.
 
 ### Problem
 
-RuO₂ has attracted attention as an altermagnetic material, but transport measurements in heterostructures can contain multiple overlapping signals. A key challenge is separating intrinsic material behavior from interface effects and measurement artifacts.
+RuO₂ has attracted attention as an [altermagnetic](https://en.wikipedia.org/wiki/Altermagnetism) material, but transport measurements in heterostructures can contain multiple overlapping signals. A key challenge is separating intrinsic material behavior from interface effects and measurement artifacts.
 
 ### My contribution
 
@@ -187,7 +183,7 @@ RuO₂ has attracted attention as an altermagnetic material, but transport measu
 
 ### Methods and tools
 
-Angle-dependent magnetoresistance, spin Hall magnetoresistance, Hall measurements, field-angle protocols, temperature-dependent transport, crystallographic-orientation analysis, RuO₂/permalloy thin-film heterostructures.
+Angle-dependent magnetoresistance, [spin Hall magnetoresistance](https://en.wikipedia.org/wiki/Spin_Hall_effect), [Hall measurements](https://en.wikipedia.org/wiki/Hall_effect), field-angle protocols, temperature-dependent transport, crystallographic-orientation analysis, RuO₂/permalloy thin-film heterostructures.
 
 ### Deliverables and impact
 
@@ -216,7 +212,7 @@ Spintronics, magnetotransport, symmetry analysis, experimental design, data inte
 
 ### Summary
 
-Developed Python- and HDF5-based workflows for processing large experimental datasets from magnetotransport, FMR, spin transport, and magnon-transport measurements.
+Developed [Python](https://www.python.org/) and [HDF5](https://www.hdfgroup.org/solutions/hdf5/)-based workflows for processing large experimental datasets from magnetotransport, FMR, spin transport, and magnon-transport measurements.
 
 ### Problem
 
@@ -227,12 +223,12 @@ Modern experimental projects generate large datasets across many parameters: mag
 - Built batch-processing workflows for field-, temperature-, angle-, and frequency-dependent datasets
 - Designed HDF5-based data structures with metadata handling and standardized naming conventions
 - Used Python tools for feature extraction, plotting, fitting, comparison across samples, and reproducible figure generation
-- Applied basic machine-learning and statistical methods for pattern detection, signal classification, and artifact recognition
+- Applied basic [machine-learning](https://en.wikipedia.org/wiki/Machine_learning) and statistical methods for pattern detection, signal classification, and artifact recognition
 - Shared scripts and analysis workflows with collaborators for reproducible interpretation
 
 ### Methods and tools
 
-Python, pandas, NumPy, matplotlib, HDF5, OriginPro, reproducible plotting, batch processing, metadata schemas, feature extraction, regression, classification, signal analysis.
+[Python](https://www.python.org/), [pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [matplotlib](https://matplotlib.org/), [HDF5](https://www.hdfgroup.org/solutions/hdf5/), [OriginPro](https://www.originlab.com/origin), reproducible plotting, batch processing, metadata schemas, feature extraction, regression, classification, signal analysis.
 
 ### Deliverables and impact
 
@@ -258,7 +254,7 @@ Scientific programming, data engineering, reproducible analysis, automation, vis
 
 ### Summary
 
-Led and supported large-scale facility experiments involving synchrotron-based XMLD/XMCD-PEEM, X-ray measurements, and low-energy muon spectroscopy on magnetic thin-film systems.
+Led and supported large-scale facility experiments involving [synchrotron](https://en.wikipedia.org/wiki/Synchrotron_light_source)-based [XMLD](https://en.wikipedia.org/wiki/X-ray_magnetic_linear_dichroism) / [XMCD](https://en.wikipedia.org/wiki/X-ray_magnetic_circular_dichroism)-[PEEM](https://en.wikipedia.org/wiki/Photoemission_electron_microscopy), X-ray measurements, and [low-energy muon spectroscopy](https://en.wikipedia.org/wiki/Muon_spin_spectroscopy) on magnetic thin-film systems.
 
 ### Problem
 
@@ -273,7 +269,7 @@ Facility experiments are time-limited, technically demanding, and coordination-h
 
 ### Methods and tools
 
-XMLD/XMCD-PEEM, synchrotron X-ray measurements, low-energy muon spectroscopy, beamtime planning, proposal writing, sample logistics, quick-look analysis, collaborative reporting.
+XMLD/XMCD-PEEM, [synchrotron X-ray](https://en.wikipedia.org/wiki/Synchrotron_radiation) measurements, low-energy [muon spectroscopy](https://en.wikipedia.org/wiki/Muon_spin_spectroscopy), beamtime planning, proposal writing, sample logistics, quick-look analysis, collaborative reporting.
 
 ### Deliverables and impact
 
@@ -298,7 +294,7 @@ Proposal writing, facility coordination, experimental preparation, collaboration
 
 ### Summary
 
-Set up and used low-temperature, high-field electrical and magnetotransport measurement workflows for thin films and microstructured devices.
+Set up and used low-temperature, high-field electrical and magnetotransport measurement workflows for thin films and [microstructured devices](https://en.wikipedia.org/wiki/Microfabrication).
 
 ### Problem
 
@@ -307,14 +303,14 @@ Device-level measurements require reliable contacting, sample mounting, wiring v
 ### My contribution
 
 - Performed DC and low-frequency transport measurements on thin films and microstructured devices
-- Measured four-probe resistance, longitudinal resistance, transverse/Hall resistance, and field-dependent transport
+- Measured [four-probe resistance](https://en.wikipedia.org/wiki/Four-terminal_sensing), longitudinal resistance, transverse/[Hall resistance](https://en.wikipedia.org/wiki/Hall_effect), and field-dependent transport
 - Used cryostat-based setups with superconducting magnets for temperature, field, and angular sweeps
-- Prepared devices through layout selection, electrical contacting, wire bonding, and continuity verification
+- Prepared devices through layout selection, electrical contacting, [wire bonding](https://en.wikipedia.org/wiki/Wire_bonding), and continuity verification
 - Developed contact maps, sweep protocols, and data-quality checks
 
 ### Methods and tools
 
-Cryogenic transport, Hall-bar geometries, four-probe measurements, lock-in detection, wire bonding, lithography, superconducting magnets, low-temperature stabilization, multi-contact wiring.
+Cryogenic transport, [Hall-bar geometries](https://en.wikipedia.org/wiki/Hall_effect), four-probe measurements, lock-in detection, wire bonding, [lithography](https://en.wikipedia.org/wiki/Lithography), superconducting magnets, low-temperature stabilization, multi-contact wiring.
 
 ### Deliverables and impact
 
@@ -340,7 +336,7 @@ Device characterization, cryogenics, low-noise electronics, sample preparation, 
 
 ### Summary
 
-Grew and characterized sputtered Heusler alloy thin films for non-volatile memory and spintronic device applications, linking growth conditions to structural, magnetic, and electrical properties.
+Grew and characterized sputtered [Heusler alloy](https://en.wikipedia.org/wiki/Heusler_compound) thin films for [non-volatile memory](https://en.wikipedia.org/wiki/Non-volatile_memory) and spintronic device applications, linking growth conditions to structural, magnetic, and electrical properties.
 
 ### Problem
 
@@ -357,7 +353,7 @@ Spintronic materials require controlled growth and reproducible characterization
 
 ### Methods and tools
 
-Magnetron sputtering, temperature-dependent electrical transport, magnetic anisotropy measurements, longitudinal/transverse MOKE, cryostat insert design, LabVIEW, Python, OriginPro.
+Magnetron sputtering, temperature-dependent electrical transport, [magnetic anisotropy](https://en.wikipedia.org/wiki/Magnetic_anisotropy) measurements, longitudinal/transverse [MOKE](https://en.wikipedia.org/wiki/Magneto-optic_Kerr_effect), cryostat insert design, LabVIEW, Python, OriginPro.
 
 ### Deliverables and impact
 
@@ -389,19 +385,19 @@ The following projects involved larger collaborations. I include them because th
 
 ### Summary
 
-Contributed to collaborative research on altermagnetic and compensated magnetic systems, including RuO₂, hematite, and related oxide materials.
+Contributed to collaborative research on [altermagnetic](https://en.wikipedia.org/wiki/Altermagnetism) and compensated magnetic systems, including RuO₂, [hematite](https://en.wikipedia.org/wiki/Hematite), and related oxide materials.
 
 ### Focus areas
 
-- Time-reversal symmetry breaking in RuO₂
-- Magnetic circular dichroism in RuO₂ films
-- XMCD imaging and anomalous Hall transport in hematite
+- [Time-reversal symmetry](https://en.wikipedia.org/wiki/T-symmetry) breaking in RuO₂
+- [Magnetic circular dichroism](https://en.wikipedia.org/wiki/Circular_dichroism) in RuO₂ films
+- XMCD imaging and [anomalous Hall transport](https://en.wikipedia.org/wiki/Anomalous_Hall_effect) in hematite
 - Optical excitation of spin polarization in d-wave altermagnets
 - Separating intrinsic magnetic responses from interface, surface, and measurement-geometry effects
 
 ### Methods and concepts
 
-Spin-resolved and X-ray-based characterization, XMLD/XMCD, MCD-XPS, PEEM, anomalous Hall transport, symmetry arguments, crystal-orientation dependence, altermagnetic spin splitting, theory–experiment comparison.
+Spin-resolved and X-ray-based characterization, XMLD/XMCD, [MCD-XPS](https://en.wikipedia.org/wiki/X-ray_photoelectron_spectroscopy), PEEM, anomalous Hall transport, symmetry arguments, crystal-orientation dependence, altermagnetic spin splitting, theory–experiment comparison.
 
 ### What this shows
 
@@ -423,7 +419,7 @@ Coauthored publications and manuscripts on RuO₂, hematite, and d-wave altermag
 
 ### Summary
 
-Worked on spin and magnon transport in garnet-based systems, including Y₃Fe₅O₁₂, Gd₃Fe₅O₁₂, and Tb₃Fe₅O₁₂.
+Worked on spin and magnon transport in garnet-based systems, including [Y₃Fe₅O₁₂ / YIG](https://en.wikipedia.org/wiki/Yttrium_iron_garnet), Gd₃Fe₅O₁₂, and Tb₃Fe₅O₁₂.
 
 ### Focus areas
 
@@ -432,11 +428,11 @@ Worked on spin and magnon transport in garnet-based systems, including Y₃Fe₅
 - Magnon diffusion and separation-dependent signal analysis
 - Damping, relaxation, compensation, and magnetic anisotropy
 - Coupled ferrimagnetic modes in YIG/GdIG/Pt trilayers
-- Topological Hall-like responses in rare-earth iron garnet systems
+- [Topological Hall effect](https://en.wikipedia.org/wiki/Topological_Hall_effect)-like responses in rare-earth iron garnet systems
 
 ### Methods and concepts
 
-FMR, broadband VNA-FMR, spin pumping, spin Seebeck effect, inverse spin Hall detection, nonlocal transport, background subtraction, thermal-artifact checks, magnetic anisotropy analysis.
+FMR, broadband [VNA](https://en.wikipedia.org/wiki/Network_analyzer_(electrical))-FMR, spin pumping, [spin Seebeck effect](https://en.wikipedia.org/wiki/Spin_Seebeck_effect), [inverse spin Hall effect](https://en.wikipedia.org/wiki/Spin_Hall_effect), nonlocal transport, background subtraction, thermal-artifact checks, magnetic anisotropy analysis.
 
 ### What this shows
 
@@ -550,43 +546,43 @@ Presented research progress and technical results to professors, collaborators, 
 
 ## Experimental methods
 
-- Magnetotransport and electrical characterization
-- Four-probe, longitudinal, transverse, and Hall measurements
-- Angle-dependent magnetoresistance and spin Hall magnetoresistance
-- First- and second-harmonic lock-in detection
+- [Magnetotransport](https://en.wikipedia.org/wiki/Magnetoresistance) and electrical characterization
+- [Four-probe](https://en.wikipedia.org/wiki/Four-terminal_sensing), longitudinal, transverse, and [Hall](https://en.wikipedia.org/wiki/Hall_effect) measurements
+- Angle-dependent magnetoresistance and [spin Hall magnetoresistance](https://en.wikipedia.org/wiki/Spin_Hall_effect)
+- First- and second-harmonic [lock-in detection](https://en.wikipedia.org/wiki/Lock-in_amplifier)
 - Nonlocal magnon transport geometries
-- Cryogenic measurements down to approximately 2–3 K
+- [Cryogenic](https://en.wikipedia.org/wiki/Cryogenics) measurements down to approximately 2–3 K
 - Magnetic-field, temperature, angle, and frequency sweeps
-- Ferromagnetic resonance, spin pumping, and spin Seebeck measurements
-- MOKE, XMCD/XMLD-PEEM, MCD-XPS exposure, low-energy muon spectroscopy
+- [Ferromagnetic resonance](https://en.wikipedia.org/wiki/Ferromagnetic_resonance), spin pumping, and [spin Seebeck](https://en.wikipedia.org/wiki/Spin_Seebeck_effect) measurements
+- [MOKE](https://en.wikipedia.org/wiki/Magneto-optic_Kerr_effect), [XMCD](https://en.wikipedia.org/wiki/X-ray_magnetic_circular_dichroism) / [XMLD](https://en.wikipedia.org/wiki/X-ray_magnetic_linear_dichroism)-[PEEM](https://en.wikipedia.org/wiki/Photoemission_electron_microscopy), [MCD-XPS](https://en.wikipedia.org/wiki/X-ray_photoelectron_spectroscopy) exposure, [low-energy muon spectroscopy](https://en.wikipedia.org/wiki/Muon_spin_spectroscopy)
 
 ## Thin-film growth, transfer, and fabrication
 
-- Pulsed laser deposition
-- Excimer-laser PLD operation
-- DC/RF magnetron sputtering
-- Reactive sputtering
-- Oxygen ion etching
-- RHEED integration with PLD chamber
+- [Pulsed laser deposition](https://en.wikipedia.org/wiki/Pulsed_laser_deposition)
+- [Excimer-laser](https://en.wikipedia.org/wiki/Excimer_laser) PLD operation
+- [DC/RF magnetron sputtering](https://en.wikipedia.org/wiki/Sputter_deposition)
+- [Reactive sputtering](https://en.wikipedia.org/wiki/Sputter_deposition#Reactive_sputtering)
+- [Oxygen ion etching](https://en.wikipedia.org/wiki/Ion_beam_etching)
+- [RHEED](https://en.wikipedia.org/wiki/Reflection_high-energy_electron_diffraction) integration with PLD chamber
 - RHEED alignment, calibration checks, and process validation
 - Vacuum suitcase transfer between PLD and sputter systems
 - Vacuum-preserving sample handling between deposition environments
-- Thermal evaporation
+- [Thermal evaporation](https://en.wikipedia.org/wiki/Physical_vapor_deposition)
 - Chemical/spin coating exposure
-- Optical and e-beam lithography
-- Ion etching, lift-off, annealing, wire bonding
+- [Optical lithography](https://en.wikipedia.org/wiki/Photolithography) and [e-beam lithography](https://en.wikipedia.org/wiki/Electron-beam_lithography)
+- Ion etching, [lift-off](https://en.wikipedia.org/wiki/Lift-off_(microtechnology)), annealing, [wire bonding](https://en.wikipedia.org/wiki/Wire_bonding)
 - Cleanroom workflows and device preparation
 
 ## Instrumentation, systems, and tool ownership
 
-- High-vacuum and ultra-high-vacuum systems
+- [High-vacuum](https://en.wikipedia.org/wiki/Vacuum) and [ultra-high-vacuum](https://en.wikipedia.org/wiki/Ultra-high_vacuum) systems
 - Excimer-laser PLD infrastructure
 - Magnetron sputtering infrastructure
 - 4-gun magnetron sputtering system
 - Oxygen ion etching capability
 - RHEED/PLD workflow integration
 - Vacuum suitcase transfer workflow
-- Cryostats and superconducting magnets
+- [Cryostats](https://en.wikipedia.org/wiki/Cryostat) and superconducting magnets
 - Low-noise electronics, lock-in amplifiers, multi-channel wiring
 - Tool scheduling and user access coordination
 - User onboarding, tool training, and safe-operation guidance
@@ -595,13 +591,13 @@ Presented research progress and technical results to professors, collaborators, 
 
 ## Data, software, and analysis
 
-- Python, pandas, NumPy, matplotlib
-- HDF5 data structures and metadata workflows
+- [Python](https://www.python.org/), [pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [matplotlib](https://matplotlib.org/)
+- [HDF5](https://www.hdfgroup.org/solutions/hdf5/) data structures and metadata workflows
 - Batch processing and reproducible plotting
 - Feature extraction, fitting, regression, and basic classification
-- LabVIEW experiment control and automation
-- OriginPro, LaTeX, Inkscape
-- SolidWorks and K-layout exposure
+- [LabVIEW](https://www.ni.com/en/shop/labview.html) experiment control and automation
+- [OriginPro](https://www.originlab.com/origin), [LaTeX](https://www.latex-project.org/), [Inkscape](https://inkscape.org/)
+- [SolidWorks](https://www.solidworks.com/) and [KLayout](https://www.klayout.de/) exposure
 - Version-controlled and collaborator-readable analysis workflows
 
 ## Collaboration and project execution
@@ -641,7 +637,7 @@ I like technical problems that require both depth and structure. My approach is 
 
 ---
 
-# What this portfolio shows
+# What this ALL shows
 
 Across these projects, I want to show more than a list of academic outputs. The common thread is practical technical ownership:
 
