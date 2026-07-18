@@ -2,6 +2,9 @@
 title: ""
 permalink: /work/
 author_profile: true
+redirect_from:
+  - /projects/
+  - /research/
 ---
 
 **[Experimental physics](https://en.wikipedia.org/wiki/Experimental_physics), [spintronics](https://en.wikipedia.org/wiki/Spintronics), instrumentation, automation, data workflows, and technical project ownership.**

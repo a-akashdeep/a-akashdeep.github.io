@@ -1,0 +1,129 @@
+/* ==========================================================================
+   CUSTOM SITE POLISH
+   Loaded last from assets/css/main.scss so it can refine the theme without
+   modifying the vendored theme partials.
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   Color refinements
+   Deeper link teal for WCAG AA contrast on white; visited links keep the
+   same color so text does not look patchy on link-dense pages.
+   -------------------------------------------------------------------------- */
+
+:root {
+  --global-link-color: #2b7a8e;
+  --global-link-color-visited: #2b7a8e;
+  --global-link-color-hover: #1d5361;
+}
+
+html[data-theme="dark"] {
+  --global-link-color: #4cc4e0;
+  --global-link-color-visited: #4cc4e0;
+  --global-link-color-hover: #7fd6ea;
+}
+
+/* --------------------------------------------------------------------------
+   Typography and reading comfort
+   -------------------------------------------------------------------------- */
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Anchor jump targets clear the fixed masthead */
+a[id],
+h1[id],
+h2[id],
+h3[id] {
+  scroll-margin-top: 90px;
+}
+
+.page__content {
+  line-height: 1.65;
+
+  p,
+  li {
+    -webkit-font-smoothing: antialiased;
+  }
+
+  li {
+    margin-bottom: 0.35em;
+  }
+
+  /* Section headings: subtle rule to structure long pages */
+  h2 {
+    margin-top: 1.75em;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid var(--global-border-color);
+  }
+
+  h3 {
+    margin-top: 1.5em;
+  }
+
+  /* Text links: underline on hover only, for a calmer text body */
+  a:not(.btn) {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.page__title {
+  letter-spacing: -0.01em;
+}
+
+/* --------------------------------------------------------------------------
+   Buttons
+   -------------------------------------------------------------------------- */
+
+.btn {
+  padding: 0.55em 1.15em;
+  font-weight: 600;
+  border-radius: 6px;
+  transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+
+  &:hover {
+    background-color: #1d5361;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.18);
+  }
+
+  &--info:hover {
+    background-color: #1d5361;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Author sidebar
+   -------------------------------------------------------------------------- */
+
+.author__avatar img {
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+}
+
+.author__name {
+  font-weight: 700;
+}
+
+/* --------------------------------------------------------------------------
+   Tables (e.g. the skills table on the Work page)
+   -------------------------------------------------------------------------- */
+
+.page__content table {
+  font-size: 0.9em;
+  border-collapse: collapse;
+
+  th,
+  td {
+    padding: 0.5em 0.75em;
+    border: 1px solid var(--global-border-color);
+    vertical-align: top;
+  }
+
+  th {
+    background-color: var(--global-thead-color);
+    text-align: left;
+  }
+}

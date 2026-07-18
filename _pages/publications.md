@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-My publications focus on experimental condensed-matter physics, spintronics, magnetic thin films, alternmagnetism, spin transport, magnetotransport, magnonics, and advanced probes of magnetic order.
+My publications focus on experimental condensed-matter physics, spintronics, magnetic thin films, altermagnetism, spin transport, magnetotransport, magnonics, and advanced probes of magnetic order.
 
 ## Selected publications
 
@@ -51,7 +51,7 @@ My publications focus on experimental condensed-matter physics, spintronics, mag
 
 3. **Emergence of a spin Hall topological Hall effect in the non-collinear phase of the ferrimagnetic insulator terbium-iron garnet**  
    M. Loyal, A. Akashdeep, E. Mangini, E. Galíndez-Ruales, M. Eich, N. Wang, Q. Lan, L. Jin, R. E. Dunin-Borkowski, T. Kuschel, M. Kläui, and G. Jakob.  
-   *Physical Review Materials*, in press / arXiv (2026).  
+   *Physical Review Materials* **10**, 054417 (2026).  
    [arXiv](https://arxiv.org/abs/2602.11721)
 
 4. **Single spin Hall anomalous Hall and Hanle effect in YIG/Ta and YIG/Pt bilayers**  

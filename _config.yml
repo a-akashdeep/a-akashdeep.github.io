@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Akashdeep | PhD Physicist"
 title_separator          : "-"
 name                     : &name "Akashdeep"
-description              : &description "PhD physicist with experience in research, data analysis, scientific computing, and academic publishing."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "PhD physicist with experience in experimental research, magnetic materials, instrumentation, and scientific data analysis."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://a-akashdeep.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -143,7 +143,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
+og_image                 : "profile.jpg" # Social media default site image
 og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles

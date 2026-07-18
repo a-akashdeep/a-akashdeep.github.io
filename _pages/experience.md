@@ -10,9 +10,9 @@ My experience combines doctoral research, experimental physics, thin-film system
 ## Research Associate
 
 **Johannes Gutenberg University Mainz**  
-2021 – 2026
+2021 – Present
 
-As a doctoral researcher, I worked on experimental condensed-matter physics and spintronics, with emphasis on magnetic thin films, altermagnetic materials, spin currents, magnetotransport, and advanced characterization of magnetic order.
+As a doctoral researcher, I worked on experimental condensed-matter physics and spintronics, with emphasis on magnetic thin films, altermagnetic materials, spin currents, magnetotransport, and advanced characterization of magnetic order. Since defending my PhD in May 2026, I have continued in the same group as a research associate (Wissenschaftlicher Mitarbeiter).
 
 My role involved designing and interpreting experiments, preparing and analyzing measurement data, contributing to collaborative publications, supporting students and visiting researchers, and helping coordinate research activities within the group.
 
@@ -57,7 +57,7 @@ Worked as a Junior Research Fellow before starting my PhD, where I developed a s
 
 ## Education
 
-- PhD in Physics, Johannes Gutenberg University Mainz, 2021 – 2026
+- PhD in Physics, Johannes Gutenberg University Mainz, 2021 – 2026 (defended May 2026)
 - Master of Science in Physics, Indian Institute of Technology Delhi, 2017 – 2019
 - Bachelor of Science in Physics, University of Delhi, Ramjas College, 2014 – 2017
 
@@ -74,4 +74,4 @@ Worked as a Junior Research Fellow before starting my PhD, where I developed a s
 
 - Hindi: mother tongue
 - English: fluent
-- German: A2
+- German: A2–B1, actively improving
