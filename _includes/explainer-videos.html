@@ -13,4 +13,12 @@
     <span class="lx-card-sub">{{ ep.subtitle }}</span>
   </a>
 {% endfor %}
+{% for v in s.standalone %}
+  <a class="lx-card" href="{{ '/explainers/' | relative_url }}#{{ v.id }}" style="--lx-accent: {{ v.accent }}">
+    <img src="{{ v.thumbnail_small | relative_url }}" alt="Thumbnail: {{ v.title }}" loading="lazy" width="640" height="360">
+    <span class="lx-card-meta">Standalone &middot; {{ v.duration }}</span>
+    <span class="lx-card-title">{{ v.title }}</span>
+    <span class="lx-card-sub">{{ v.subtitle }}</span>
+  </a>
+{% endfor %}
 </div>

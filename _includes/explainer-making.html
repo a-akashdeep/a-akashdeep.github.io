@@ -16,7 +16,7 @@
 <div class="lx-proof">
   <div>
     <p class="lx-proof-title">Numbers are computed, not typed</p>
-    <p>A script recomputes each quantitative claim, for example that a 1&nbsp;nm mirror move shifts the interferometer phase by 4&pi;&middot;1/633&nbsp;rad &asymp; 1.14&deg;. {{ s.physics_checks }} such checks run in episodes 2 and 3; episode 1's claims are traced to a written source list.</p>
+    <p>A script recomputes each quantitative claim, for example that a 1&nbsp;nm mirror move shifts the interferometer phase by 4&pi;&middot;1/633&nbsp;rad &asymp; 1.14&deg;. {{ s.physics_checks }} such checks run in episodes 2 and 3; episode 1's claims are traced to a written source list. The standalone MOKE video adds {{ s.standalone[0].qa.physics_checks }} more, built on an independent 4&times;4 reflection model, Jones calculus for the modulator and a noise simulation.</p>
   </div>
   <div>
     <p class="lx-proof-title">The picture follows the voice</p>
@@ -37,6 +37,9 @@
   <tbody>
     {% for ep in s.episodes %}
     <tr><td><a href="#ep{{ ep.number }}">{{ ep.number }}. {{ ep.title }}</a></td><td>{{ ep.duration }}</td><td>{{ ep.qa.captions }}</td><td>{{ ep.qa.sync_max_ms }}&nbsp;ms</td><td>{{ ep.qa.lufs }}&nbsp;LUFS</td><td>{{ ep.qa.asr_pct }}&nbsp;%</td><td>{% if ep.qa.physics_checks %}{{ ep.qa.physics_checks }} pass{% else %}source list{% endif %}</td></tr>
+    {% endfor %}
+    {% for v in s.standalone %}
+    <tr><td><a href="#{{ v.id }}">{{ v.title }} (standalone)</a></td><td>{{ v.duration }}</td><td>{{ v.qa.captions }}</td><td>{{ v.qa.sync_max_ms }}&nbsp;ms</td><td>{{ v.qa.lufs }}&nbsp;LUFS</td><td>{{ v.qa.asr_pct }}&nbsp;%</td><td>{{ v.qa.physics_checks }} pass</td></tr>
     {% endfor %}
   </tbody>
 </table>

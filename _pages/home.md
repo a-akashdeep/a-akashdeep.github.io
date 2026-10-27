@@ -73,6 +73,8 @@ Contributed to thin-film growth and characterization infrastructure, including s
 
 {% include explainer-videos.html %}
 
+Also: **[MOKE, Explained](/explainers/#moke)**, a standalone explainer on the magneto-optical Kerr effect.
+
 ---
 
 ## How I work

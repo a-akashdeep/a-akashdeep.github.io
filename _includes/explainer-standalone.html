@@ -1,0 +1,43 @@
+{% comment %}
+  Standalone explainers on /explainers/ (outside the "Laser Lithography, Explained" series): one section per
+  entry of site.data.explainers.standalone, with the same click-to-load player, summary, "You'll learn" list and
+  chapters as an episode. The play and chapter handlers live in explainer-series.html (they listen on the whole page).
+  Styles: "Explainer video series" in _sass/_custom.scss.
+{% endcomment %}
+{% assign s = site.data.explainers %}
+<div class="lx">
+  {% for v in s.standalone %}
+  <section class="lx-episode" id="{{ v.id }}" style="--lx-accent: {{ v.accent }}" aria-labelledby="{{ v.id }}-title">
+    <div class="lx-player" id="{{ v.id }}-player"{% if v.youtube_id != "" %} data-youtube-id="{{ v.youtube_id }}"{% endif %} data-title="{{ v.youtube_title | escape }}">
+      <img src="{{ v.thumbnail | relative_url }}" alt="Thumbnail: {{ v.title }}" loading="lazy" width="1280" height="720">
+      {% if v.youtube_id != "" %}
+      <a class="lx-play" href="https://www.youtube.com/watch?v={{ v.youtube_id }}" aria-label="Play: {{ v.youtube_title | escape }}"><span></span></a>
+      {% else %}
+      <span class="lx-soon">Coming soon on YouTube</span>
+      {% endif %}
+    </div>
+    <div class="lx-info">
+      <p class="lx-kicker">Standalone &middot; {{ v.duration }} &middot; {{ v.chapters.size }} chapters &middot; English captions</p>
+      <h3 class="lx-title" id="{{ v.id }}-title">{{ v.title }}: <span>{{ v.subtitle }}</span></h3>
+      <p class="lx-summary">{{ v.summary }}</p>
+      <div class="lx-columns">
+        <div>
+          <p class="lx-label">You'll learn</p>
+          <ul class="lx-learn">
+            {% for x in v.learn %}<li>{{ x }}</li>{% endfor %}
+          </ul>
+        </div>
+        <div>
+          <p class="lx-label">Chapters</p>
+          <ol class="lx-chapters">
+            {% for c in v.chapters %}
+            <li>{% if v.youtube_id != "" %}<a class="lx-chapter" href="https://www.youtube.com/watch?v={{ v.youtube_id }}&amp;t={{ c.t }}s" data-player="{{ v.id }}-player" data-t="{{ c.t }}"><time>{{ c.ts }}</time> {{ c.title }}</a>{% else %}<time>{{ c.ts }}</time> {{ c.title }}{% endif %}</li>
+            {% endfor %}
+          </ol>
+        </div>
+      </div>
+      <p class="lx-note">{{ v.note }}</p>
+    </div>
+  </section>
+  {% endfor %}
+</div>

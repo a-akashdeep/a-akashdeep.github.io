@@ -8,6 +8,14 @@ og_image: "explainers/series-share.jpg"
 
 {% include explainer-series.html %}
 
+<a id="more-explainers"></a>
+
+## More explainers
+
+A standalone explainer outside the series, made with the same pipeline and the same quality gate.
+
+{% include explainer-standalone.html %}
+
 <a id="how-it-was-made"></a>
 
 ## How it was made
@@ -20,7 +28,7 @@ I ran each episode like an experiment: decide what has to be true, measure it, a
 
 ## Made with AI assistance
 
-I used AI tools heavily for this series, and I want to be clear about the split:
+I used AI tools heavily for this series and for the standalone MOKE video, and I want to be clear about the split:
 
 - **AI did:** drafted the narration scripts to my outlines, wrote the animation code (React/TypeScript) and the build scripts to my specifications, and generated the narrator's voice (Kokoro-82M, run locally, with no cloud voice service).
 - **I did:** chose the topics and the level of depth, specified the physics content and the accuracy and quality requirements, checked the claims against references and manufacturer documentation, and reviewed and approved every episode.

@@ -542,6 +542,8 @@ Presented research progress and technical results to professors, collaborators, 
 
 {% include explainer-videos.html %}
 
+Also: **[MOKE, Explained](/explainers/#moke)**, a standalone 14-minute explainer on the magneto-optical Kerr effect and what a photoelastic modulator adds, built with the same checks.
+
 ### What this shows
 
 - Ability to translate complex measurements into clear messages

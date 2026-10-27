@@ -156,3 +156,73 @@ episodes:
       lufs: "−16.2"
       asr_pct: "95.9"
       physics_checks: 25
+
+standalone:
+  - id: "moke"
+    title: "MOKE, Explained"
+    subtitle: "Three geometries, the dielectric tensor, and what a PEM really adds"
+    youtube_title: "MOKE Explained: Kerr Rotation, Ellipticity and the PEM"
+    youtube_id: "4mO_LuI6K58"
+    accent: "#A58CFF"
+    duration: "13:57"
+    thumbnail: "/images/explainers/moke-explained.jpg"
+    thumbnail_small: "/images/explainers/moke-explained-small.jpg"
+    summary: "A graduate-level walk through the magneto-optical Kerr effect, from the three geometries and the complex Kerr angle to the lab bench, with and without a photoelastic modulator."
+    note: "The benches are teaching models and the film constants are illustrative, not measured data. Kerr angles are drawn exaggerated by the factors shown on screen, and the noise comparison is a simulation with its parameters displayed. Narration is an AI voice generated locally."
+    learn:
+      - "What polar, longitudinal and transverse MOKE measure: Kerr rotation, Kerr ellipticity or a reflectivity change"
+      - "How the off-diagonal dielectric tensor produces the complex Kerr angle, and what it cannot predict"
+      - "How a photoelastic modulator and a lock-in amplifier separate rotation from ellipticity, and what an analyzer-only bench still measures"
+      - "A simulated comparison of three detection schemes: strong signal, drifting laser, and the shot-noise limit"
+    chapters:
+      - t: 0
+        ts: "0:00"
+        title: "A tiny tilt"
+      - t: 33
+        ts: "0:33"
+        title: "Frame and conventions"
+      - t: 70
+        ts: "1:10"
+        title: "Three geometries"
+      - t: 131
+        ts: "2:11"
+        title: "Rotation, ellipticity, intensity"
+      - t: 170
+        ts: "2:50"
+        title: "Why ellipticity appears"
+      - t: 235
+        ts: "3:55"
+        title: "The dielectric tensor"
+      - t: 293
+        ts: "4:53"
+        title: "From tensor to Kerr angle"
+      - t: 355
+        ts: "5:55"
+        title: "From Kerr angle to hysteresis"
+      - t: 398
+        ts: "6:38"
+        title: "What the theory can't predict"
+      - t: 456
+        ts: "7:36"
+        title: "Layers change the signal"
+      - t: 486
+        ts: "8:06"
+        title: "MOKE without a PEM"
+      - t: 572
+        ts: "9:32"
+        title: "The photoelastic modulator"
+      - t: 631
+        ts: "10:31"
+        title: "Harmonics and the lock-in"
+      - t: 721
+        ts: "12:01"
+        title: "With and without a PEM"
+      - t: 800
+        ts: "13:20"
+        title: "Takeaways"
+    qa:
+      captions: 206
+      sync_max_ms: 55
+      lufs: "−16.3"
+      asr_pct: "94.6"
+      physics_checks: 37
