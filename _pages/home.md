@@ -65,6 +65,16 @@ Contributed to thin-film growth and characterization infrastructure, including s
 
 ---
 
+<a id="explainer-videos"></a>
+
+## Explainer videos
+
+**[Laser Lithography, Explained](/explainers/)**: a three-part animated series on how maskless laser lithography works, from the beam path of a laser writer to the physics that limits it. Made with AI assistance, and built with automated physics checks and a quality gate.
+
+{% include explainer-videos.html %}
+
+---
+
 ## How I work
 
 Experiments rarely move in a straight line. I value patience, reliability, structured thinking, and honest communication. I like breaking down complex problems into smaller testable questions: what needs to be measured, what could be misleading, what the data actually supports, and how to explain the result clearly.

@@ -34,6 +34,7 @@ My strongest work sits at the intersection of **experimental design, [magnetic m
   - [Heusler alloy thin films for spintronic device applications](#heusler-alloy-project)
 - [Collaborative research contributions](#collaborative-research)
 - [Project coordination, mentoring, and leadership](#coordination-mentoring-leadership)
+- [Explainer video series: Laser Lithography, Explained](#explainer-series)
 - [Technical skill map](#technical-skill-map)
 - [How I work](#how-i-work)
 
@@ -531,6 +532,15 @@ Presented research progress and technical results to professors, collaborators, 
 - Internal seminars and subgroup updates explaining new results, measurement artifacts, theory–experiment links, and follow-up plans
 - Beamtime updates, technical reports, figures, and manuscripts
 - Documentation for tools, workflows, SOPs, user-facing procedures, and analysis routines
+
+<a id="explainer-series"></a>
+<a id="ai-assisted-projects"></a>
+
+### Explainer video series
+
+**[Laser Lithography, Explained](/explainers/)**: three animated explainers (about 20 minutes in total) on direct laser writing, spot size and depth of focus, and laser interferometry. Every episode passes automated physics checks and a quality gate before release. Made with AI assistance: [how it was made](/explainers/#how-it-was-made).
+
+{% include explainer-videos.html %}
 
 ### What this shows
 

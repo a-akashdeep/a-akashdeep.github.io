@@ -1,0 +1,16 @@
+{% comment %}
+  Compact episode cards for the Work and Home pages. Each card links to its episode on the
+  showcase page (/explainers/), where the players, chapters and "How it was made" live.
+  Data: _data/explainers.yml. Styles: "Explainer video series" in _sass/_custom.scss.
+{% endcomment %}
+{% assign s = site.data.explainers %}
+<div class="lx-cards">
+{% for ep in s.episodes %}
+  <a class="lx-card" href="{{ '/explainers/' | relative_url }}#ep{{ ep.number }}" style="--lx-accent: {{ ep.accent }}">
+    <img src="{{ ep.thumbnail_small | relative_url }}" alt="Thumbnail: {{ ep.title }}" loading="lazy" width="640" height="360">
+    <span class="lx-card-meta">Episode {{ ep.number }} &middot; {{ ep.duration }}</span>
+    <span class="lx-card-title">{{ ep.title }}</span>
+    <span class="lx-card-sub">{{ ep.subtitle }}</span>
+  </a>
+{% endfor %}
+</div>

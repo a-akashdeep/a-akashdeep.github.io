@@ -1,0 +1,49 @@
+{% comment %}
+  "How it was made" on /explainers/: the production pipeline, three principles and the per-episode
+  quality numbers. All numbers come from _data/explainers.yml, which the video project generates
+  from each episode's published build and QA report.
+{% endcomment %}
+{% assign s = site.data.explainers %}
+<ol class="lx-pipeline">
+  <li><strong>Script</strong><span>Structured narration text: the single source of truth for words, timing cues and captions</span></li>
+  <li><strong>Physics checks</strong><span>Python recomputes every number on screen; the build stops if one fails</span></li>
+  <li><strong>Narration</strong><span>Neural text-to-speech run locally, with word-level timing</span></li>
+  <li><strong>Animation</strong><span>Remotion (React + TypeScript), keyed to the spoken words</span></li>
+  <li><strong>Mix &amp; encode</strong><span>FFmpeg: EBU R128 loudness, 1080p H.264</span></li>
+  <li><strong>QA gate</strong><span>Automated checks on the finished file before anything is published</span></li>
+</ol>
+
+<div class="lx-proof">
+  <div>
+    <p class="lx-proof-title">Numbers are computed, not typed</p>
+    <p>A script recomputes each quantitative claim, for example that a 1&nbsp;nm mirror move shifts the interferometer phase by 4&pi;&middot;1/633&nbsp;rad &asymp; 1.14&deg;. {{ s.physics_checks }} such checks run in episodes 2 and 3; episode 1's claims are traced to a written source list.</p>
+  </div>
+  <div>
+    <p class="lx-proof-title">The picture follows the voice</p>
+    <p>Animations are keyed to the narration's word timings, so a diagram changes on the word that names it. Caption timing is measured against the actual speech onsets: the worst case is {{ s.sync_worst_ms }}&nbsp;ms, against a limit of {{ s.sync_limit_ms }}&nbsp;ms.</p>
+  </div>
+  <div>
+    <p class="lx-proof-title">Every build is versioned and gated</p>
+    <p>Builds are never overwritten. Format, duration, loudness (&minus;16&nbsp;LUFS, no clipping), black or frozen frames, and a speech-recognition comparison of audio and captions must all pass before a build can be published.</p>
+  </div>
+</div>
+
+<p class="lx-label">Quality numbers of the published episodes</p>
+<div class="lx-table-wrap">
+<table class="lx-qa">
+  <thead>
+    <tr><th>Episode</th><th>Length</th><th>Captions</th><th>Caption timing<br><small>worst case</small></th><th>Loudness</th><th>Speech vs captions<br><small>recognition match</small></th><th>Physics checks</th></tr>
+  </thead>
+  <tbody>
+    {% for ep in s.episodes %}
+    <tr><td><a href="#ep{{ ep.number }}">{{ ep.number }}. {{ ep.title }}</a></td><td>{{ ep.duration }}</td><td>{{ ep.qa.captions }}</td><td>{{ ep.qa.sync_max_ms }}&nbsp;ms</td><td>{{ ep.qa.lufs }}&nbsp;LUFS</td><td>{{ ep.qa.asr_pct }}&nbsp;%</td><td>{% if ep.qa.physics_checks %}{{ ep.qa.physics_checks }} pass{% else %}source list{% endif %}</td></tr>
+    {% endfor %}
+  </tbody>
+</table>
+</div>
+<p class="lx-note">Caption timing: caption starts that follow a pause in speech, measured against the audio of the final file (captions inside continuous speech are timed from the word durations). The speech-recognition match is lower than 100&nbsp;% mainly because of numbers and symbols such as "633" or "λ/NA".</p>
+
+<p class="lx-label">Tools</p>
+<ul class="lx-tools">
+  <li>Python</li><li>Remotion</li><li>React</li><li>TypeScript</li><li>FFmpeg</li><li>Kokoro-82M (local TTS)</li><li>faster-whisper (QA)</li><li>SVG</li>
+</ul>
